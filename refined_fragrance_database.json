@@ -1,0 +1,77 @@
+[
+    {
+        "name": "자극적 (Spicy)",
+        "description": "자극적이며 섹시한 향",
+        "key_ingredients": ["아니스", "아사페티다", "카다멈", "계피", "정향 잎", "큐민", "딜", "생강", "샤프란"]
+    },
+    {
+        "name": "시프레 (Cypre)",
+        "description": "격조 있고 성숙한 느낌의 개성 있는 향",
+        "key_ingredients": ["베르가못", "라브다눔"]
+    },
+    {
+        "name": "과일향 (Fruity)",
+        "description": "달콤하고 귀여운 향",
+        "key_ingredients": ["바나나", "블랙베리", "체리", "망고", "딸기", "사과", "자두"]
+    },
+    {
+        "name": "시트러스 (Citrus)",
+        "description": "과일 같은 상큼한 향",
+        "key_ingredients": ["베르가못", "자몽", "레몬", "유자", "감귤"]
+    },
+    {
+        "name": "녹색향 (Green)",
+        "description": "상쾌하고 신선한 향",
+        "key_ingredients": ["오이", "민트", "티", "토마토 잎", "잔디"]
+    },
+    {
+        "name": "알데하이드 (Aldehyde)",
+        "description": "인공적인 비누향, 모던하고 우아하며 지적인 느낌",
+        "key_ingredients": ["알데하이드", "코라놀", "에틸 말톨"]
+    },
+    {
+        "name": "아쿠아틱 (Aquatic)",
+        "description": "물과 바다의 시원함이 가득한 향",
+        "key_ingredients": ["아쿠오존", "캘론", "해수", "물방울"]
+    },
+    {
+        "name": "푸제르 (Fougere)",
+        "description": "부드럽고 싱그러운 남성적인 향",
+        "key_ingredients": ["양치식물", "라벤더", "쿠마린", "스윗그라스"]
+    },
+    {
+        "name": "구르망 (Gourmand)",
+        "description": "달콤하고 유혹적인 미각의 즐거움",
+        "key_ingredients": ["아몬드", "버터", "초콜릿", "아이스크림", "마카롱", "바닐라"]
+    },
+    {
+        "name": "우디 (Woody)",
+        "description": "따뜻하고 부드러운 고급스러운 향",
+        "key_ingredients": ["오드", "삼나무", "참나무", "샌달우드"]
+    },
+    {
+        "name": "오리엔탈 (Oriental)",
+        "description": "무거우면서 부드럽고 고혹적인 달콤한 향",
+        "key_ingredients": ["바닐라", "벤조인", "몰약", "프랭킨센스"]
+    },
+    {
+        "name": "플로럴 (Floral)",
+        "description": "화려하고 여성스러운 향",
+        "key_ingredients": ["라벤더", "자스민", "로즈", "모란"]
+    },
+    {
+        "name": "머스크 (Musk)",
+        "description": "이성에게 어필 가능한 아름다운 향",
+        "key_ingredients": ["머스크", "앰브레트", "실콜라이드"]
+    },
+    {
+        "name": "파우더리 (Powdery)",
+        "description": "포근하고 부드러운 향",
+        "key_ingredients": ["아이리스", "헬리오트로프", "오리스 루트"]
+    },
+    {
+        "name": "담배/가죽향 (Tobacco Leather)",
+        "description": "마초적인 남성의 강렬한 매력",
+        "key_ingredients": ["가죽", "스웨이드", "담배 꽃"]
+    }
+]
