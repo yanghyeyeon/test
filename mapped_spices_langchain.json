@@ -1,0 +1,5601 @@
+[
+    {
+        "id": 1,
+        "name": "Bergamot",
+        "content": "citrusy, bitter & tart, elegant, light note with mild spicy tone, complex with nuances of fruit and aromatic elements, reminiscent of eau de Cologne, it flavors Earl Grey tea.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bitter Orange",
+        "content": "It is inedible tart citrus, known as \"bigarade\". It is intensely scented.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Blood Orange",
+        "content": "It is a mutation of the sweet orange, very sweet and juicy, with a sweet taste and smell.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Buddha's hand",
+        "content": "citrus, lemon, fresh, sweet, green, woody and herbal facetes",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Chinotto",
+        "content": "A citrus note sweet and aromatic, this fruit is used and associated with chinotto beverage.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Citron",
+        "content": "a bright dry citrus note.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Citruses",
+        "content": "A category of hesperidic fruits of different varieties.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Clementine",
+        "content": "a variety of mandarin orange without seeds, known as \"Christmas mandarin\", sweet and juicy.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Finger Lime",
+        "content": "A fresh and sweet, clean citrus fragrance with balsamic coumarin undertones.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Grapefruit",
+        "content": "A bitter aromatic citrus scent with a \"dirty\" undertone reminiscent of black currant.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Hassaku",
+        "content": "Japanese citrus variant, similar in scent profile to mandarine orange.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Lemon",
+        "content": "astringent, sour, sweet undertone, aromatic nuance, bright, cheerful & vibrant.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Lemon Balm",
+        "content": "a minty, lightly spicy aspect, an alternative to lemon.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Lemon Tree",
+        "content": "complex note reproducing the aroma of floral lemon blossoms, crushed green leaves and tart ambience around the living tree.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Lemon Verbena",
+        "content": "a lemon-fresh, clean, floral-citrus, aromatic herbal nuances.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Lemongrass",
+        "content": "an intensely lemon-scented aromatic herb, with spicy aromatic undertones.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Limetta",
+        "content": "A fine citrus fragrance, reminiscent of lime, but less acidic and mildly sweet.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Litsea Cubeba",
+        "content": "a lemon-like, sharp, fresh smell with a sweet undertone.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Mandora",
+        "content": "A sweet aromatic citrus note.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Methyl Pamplemousse",
+        "content": "Fresh herbal, green fruity; citrusy, reminding of grapefruit peel, soapy, woody, green,herbal, floral, violet.\r\n\r\nKey aromachemical in modern colognes, bitter sour top note, fresh and evanescent, grapefruit scent blending with citrus bases. It can also be used as a booster for vetiver accords.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 36,
+        "name": "Neroli",
+        "content": "A citrusy, light, slightly bitter note, with hints of orange and honey blossom floral facets, purifying, aromatic, green.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Orange",
+        "content": "A sweet citrus note, somewhat between mandarin and pomelo, a small facet of astringency.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Palestinian Sweet Lime",
+        "content": "Is a low-acid lime used in Palestine for food, juice and rootstock.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 42,
+        "name": "Rangpur",
+        "content": "With abundant juice, very acidic, tasty and rich in vitamin C.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 45,
+        "name": "Sudachi citrus",
+        "content": "A citrus smell.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 46,
+        "name": "Tangelo",
+        "content": "A sweet citrus scent reminiscent of mandarine, but less dry.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 47,
+        "name": "Tangerine",
+        "content": "A sweet hesperidic fragrance with a nuance of honey.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 49,
+        "name": "Yuzu",
+        "content": "A sweet and very bitter, unique citrus fragrance, with a terpenic nuance.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 53,
+        "name": "Almond",
+        "content": "It is gourmand bitter-sweet note, soft and nutty. Bitter almond oil is produced not only from almonds, but cherries, apricots, peaches, and prunes.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 61,
+        "name": "Artichoke",
+        "content": "Artichoke has a unique vegetable odor – fleshy, bitter, fatty, green, earthy and slightly sweet and warm.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 62,
+        "name": "Banana",
+        "content": "a sweet tropical fruity nuance.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 63,
+        "name": "Barberry",
+        "content": "from the species berberis bulgaris, small yellow bloom with sweet scent",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 64,
+        "name": "Bearberry",
+        "content": "the prefered fruit of bears, tart red fruits with a tannic taste grown in mountains and even Artic conditions, unsuitable for pregnancy and kidney failure patients.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 68,
+        "name": "Black Sapote",
+        "content": "Sweet and nutty, with notes of chocolate.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 70,
+        "name": "Blackberry",
+        "content": "Blackberries are a synthetic note with a tangy-sweet fruity profile.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 75,
+        "name": "Breadnut",
+        "content": "A savory tropical note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 80,
+        "name": "Carambola (Star Fruit)",
+        "content": "a fresh and sour fruity note, with a hint of citrus and green.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 81,
+        "name": "Carrot",
+        "content": "a powdery earthy note (carrot seed), it has iris rhizome characteristics, in fact often substituted for the costlier orris.",
+        "line": {
+            "id": 14,
+            "name": "Powdery",
+            "content": "포근한 향",
+            "color": "FFFFFF"
+        }
+    },
+    {
+        "id": 85,
+        "name": "Cepes",
+        "content": "an earthy musty appetizing smell of mushrooms.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 88,
+        "name": "Cherry",
+        "content": "a popular fruity note, sweet and tart at the same time, with a characteristic bitter almond nuance.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 95,
+        "name": "cocoa shell",
+        "content": "A subtle, nutty, earthy chocolate aroma.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 96,
+        "name": "Coconut",
+        "content": "A tropical fruity nutty sweet note with vanilla, milky nuances.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 104,
+        "name": "Cucumber",
+        "content": "a fresh, aqueous green aroma which diffuses very well thanks to the \"cucumber aldehyde\" (2(E),6(Z)-nonadienal). Violet leaf can yield cucumber, metallic green aspects in perfumes too.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 105,
+        "name": "Cupuaçu, Cupuassu, Copoasu",
+        "content": "tropical plant, edible note, related to the tree that produces cocoa; the rind of the fruit smells between chocolate and pineapple while the juice is smelling of pear and green banana.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 106,
+        "name": "Currant Leaf and Bud",
+        "content": "leaves and buds of blackcurrants, also known as bourgeons de cassis, have a characteristic green & ammoniac scent reminiscent of \"cat piss\".",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 107,
+        "name": "Cyperus Scariosus",
+        "content": "Indian woody note also known as Cypriol or Nagarmotha with facets of vetiver, cedar and patchouli or recreated woody blend to substitute the natural oil.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 108,
+        "name": "Daikon Radish",
+        "content": "Daikon is a member of the radish family and shares their characteristic pungent, fresh and mustard-like smell. It is similar to the scent of leafy green kale, mustard oil, with metallic nuances and a sour note similar to dill. It has mild sweetness, a crisp top note like rhubarb, and a softer leafy quality like lettuce.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 113,
+        "name": "Dried Fruits",
+        "content": "notes that recall sweet, sticky fruits, such as dates, figs, dried apricot skins and liquorice.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 116,
+        "name": "Feijoa Fruit",
+        "content": "It has a pleasant, aromatic and sweet aroma.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 117,
+        "name": "Fig",
+        "content": "A complex green sweet lactonic fragrance (leaves). The fruit is very sweet, honeyed, floral, gourmand.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 118,
+        "name": "Fig Leaf",
+        "content": "green, bitterish and unique scent that brings to mind earth dust, shadow and foliage",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 119,
+        "name": "Forest Fruits",
+        "content": "a wide classification of usually red or blue berries with sweet & sour aspects.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 122,
+        "name": "Fruity Notes",
+        "content": "Fresh and sweet fruity notes enhance the beauty and naturalness of floral notes.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 123,
+        "name": "Fuji Apple",
+        "content": "A fantasy sweet apple note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 124,
+        "name": "Gariguette Strawberry",
+        "content": "Gariguette Strawberries are the earliest variety of spring strawberries. They have a sweet, tangy flavour and are highly fragrant.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 138,
+        "name": "Guava",
+        "content": "a fruity tropical note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 140,
+        "name": "Hog Plum",
+        "content": "Citrus-aromatic, acidic, sunny and long-lasting.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 147,
+        "name": "Kiwi",
+        "content": "a tropical sweet and sour fruity note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 150,
+        "name": "Litchi",
+        "content": "Also referenced as \"lychee\", litchi has a tropical sweet fragrance, fruity aquatic.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 156,
+        "name": "Malt",
+        "content": "a savory scent reminiscent of roasted barley, beer and whiskey.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 157,
+        "name": "Mamey",
+        "content": "It has a sweet, fruity, marzipan odour with hints of cherries and squash.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 158,
+        "name": "Mango",
+        "content": "a tropical fruity note, very juicy, with peach-like and piney facets.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 159,
+        "name": "Mangosteen",
+        "content": "somewhat sweet and tangy, astringent fruit with wide use in folk medicine (as an anti-inflammatory).",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 163,
+        "name": "Melon",
+        "content": "A fresh and sweet fruity aquatic note, usually attributed to Calone, a popular lab synthetic popularized in the 1990s.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 164,
+        "name": "Mirabelle",
+        "content": "a fantasy fruity note, reminiscent of mirabelle plum, sweet, fresh, fleshy.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 165,
+        "name": "Miracle Berry",
+        "content": "Synsepalum dulcificum is a plant in the Sapotaceae family, native to tropical Africa. It is known for its berry that, when eaten, causes sour foods subsequently consumed to taste sweet.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 169,
+        "name": "Mushroom",
+        "content": "an earthy musty note reminiscent of mushrooms.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 171,
+        "name": "Nectarine",
+        "content": "a variety of peach, nectarous fruity note with high fructose level and apricot-peachy aroma.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 173,
+        "name": "Okra Seeds",
+        "content": "Vegetal musk",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 175,
+        "name": "Papaya",
+        "content": "a tropical fruit note, sweet, fleshy and fresh.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 176,
+        "name": "Passionfruit",
+        "content": "An intense tropical synthetic fruity note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 178,
+        "name": "Peach",
+        "content": "A very popular fruity note, fleshy, sweet, nectarous and powdery.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 180,
+        "name": "Pear",
+        "content": "A sweet and fresh, aquatic fruity note.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 181,
+        "name": "Pecan",
+        "content": "A fantasy gourmand note with a nutty, sweet, woody profile.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 184,
+        "name": "Pineapple",
+        "content": "A fresh and juicy fruity note, fresh and slightly metallic.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 186,
+        "name": "Pistachio",
+        "content": "a green nutty savory note.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 187,
+        "name": "Pitahaya",
+        "content": "a fruit of cactus species, known as \"dragon fruit\", native to the Americas. Known also as \"moonflower\", the flowers exude a sweet, heady floral aroma when in bloom.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 189,
+        "name": "Plum",
+        "content": "A sensual fruity fragrance.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 190,
+        "name": "Pomegranate",
+        "content": "A fantasy fruity note, sweet and sour, spicy and leathery.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 193,
+        "name": "Pumpkin",
+        "content": "soft, carbohydrate rich flavor, pulpous note reminiscent of pumpkin pie and American baking.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 198,
+        "name": "Red Apple",
+        "content": "It is a fresh and sweet synthetic fruity note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 200,
+        "name": "Red Currant",
+        "content": "a sour aromatic fruity note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 204,
+        "name": "Rhubarb",
+        "content": "a sweet and sour, green and mouthwatering, vegetal spicy fruity fragrance.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 216,
+        "name": "Soybean",
+        "content": "legume note with a fermented bean paste flavor.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 219,
+        "name": "Strawberry",
+        "content": "A sweet fruity note, artificial or composed of other materials, natural or artificial.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 221,
+        "name": "Tayberry",
+        "content": "another Rubus genus variant, cross between blackberry and red raspberry, with fruit larger and sweeter than the loganberry (also a hybrid).",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 222,
+        "name": "Tomato",
+        "content": "a penetrating intense aromatic scent of tomato leaves.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 223,
+        "name": "Tropical Fruits",
+        "content": "a general scent of sweet, lush, mouthwatering tropical fruits: coconut, pineapple, guava, etc.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 224,
+        "name": "Tropicalone",
+        "content": "Exotic tropical fruits such as yellow passion fruit (lilikoi), pineapple, red fruits, mangosteen, and pitahaya with natural creamy/milky nuances",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 229,
+        "name": "Watermelon",
+        "content": "an extremely fresh note related to Calone or similar in profile syntethic molecules.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 231,
+        "name": "White Currant",
+        "content": "part of the Ribes genus, translucent berries with sweeter flavor than red currants.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 233,
+        "name": "Wild Strawberry",
+        "content": "a rich foresty sweet fruity fragrance.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 237,
+        "name": "Yellow Cherry",
+        "content": "a cultivar known as Rainier cherry, sweet and with creamy-yellow flesh.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 243,
+        "name": "Aglaia",
+        "content": "A fresh and citrusy floral note of great radiance.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 248,
+        "name": "Althaea",
+        "content": "Roots of althea or marshmallow plant used as a vegetal source of musk.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 250,
+        "name": "Alyssum",
+        "content": "A honey sweet floral note.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 251,
+        "name": "Amarillys",
+        "content": "a floral note with fruity undertone between nectarine and rose.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 253,
+        "name": "Anemone",
+        "content": "soft lightly powdery and pungent scent of real anemones (which smell especially pungent when dead)",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 254,
+        "name": "Angel's Trumpet",
+        "content": "a very fragrant variation of datura plant, sweet, penetrating, intoxicating, tropical night flower scent",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 255,
+        "name": "Apple Blossom",
+        "content": "a fantasy fruity floral note, light and spring-like.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 256,
+        "name": "Apricot Blossom",
+        "content": "a fantasy floral note of a delicate airy character.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 268,
+        "name": "Black Currant Blossom",
+        "content": "sweet, fruity scent, less \"catty\" than the leaves and buds, with a tangy background nuance",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 271,
+        "name": "Blue Poppy",
+        "content": "fantasy note inspired by the Himmalayan Blue Poppy which oddly has no fragrance!",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 272,
+        "name": "Bluebell",
+        "content": "Clear, spring-like, sweet, green, delicate floral.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 282,
+        "name": "Camellia",
+        "content": "a fantasy floral note based on the idea of camellia, a beautiful scentless flower",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 291,
+        "name": "Chamomile",
+        "content": "An aromatic herbal fragrance with green and spicy nuances.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 292,
+        "name": "Champaca",
+        "content": "A warm heady floral.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 293,
+        "name": "Cherry Blossom",
+        "content": "A fantasy floral note of light fresh blooms.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 297,
+        "name": "Chocolate Flower",
+        "content": "smelling of chocolate, delicious, bittersweet note",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 299,
+        "name": "Chrysanthemum",
+        "content": "an herbal, slightly musty note with green and spicy facets.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 301,
+        "name": "Clematis",
+        "content": "Different species of clematis offer different fragrance profiles, from minty-chocolate to honeyed.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 302,
+        "name": "Clover",
+        "content": "a sweet honey floral and green note.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 307,
+        "name": "Costus",
+        "content": "a sensual and dirty, rooty note reminiscent of unwashed hair.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 312,
+        "name": "Cyclamen",
+        "content": "A fine synthetic note replicating the refined, light, clean and mysterious scent of cyclamen flowers.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 315,
+        "name": "Dandelion",
+        "content": "citrusy, hint of rose, aromatic, bitter-sweet bouquet.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 318,
+        "name": "Deadnettle",
+        "content": "Deadnettle essential oil contains a high amount of Germacrene D. It possesses a complex woody piney hay earthy green scent.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 328,
+        "name": "Elderflower",
+        "content": "part of the Sambucus family with a floral-herbal aroma and intense berry scent when infused",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 330,
+        "name": "English Marigold",
+        "content": "an herbal, aromatic fragrance.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 339,
+        "name": "Flax",
+        "content": "a mild, nutty scent from flax seeds, which can turn fishy when rancid",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 340,
+        "name": "Floral Notes",
+        "content": "Floral notes are an essential part of almost every perfume. They can be natural or synthetic.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 341,
+        "name": "Forget Me Not",
+        "content": "A fantasy note with transparent green fresh nuances.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 343,
+        "name": "Freesia",
+        "content": "A fresh spicy powdery floral note.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 351,
+        "name": "Grapeflower",
+        "content": "A fantasy floral accord created of natural and synthetic materials.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 359,
+        "name": "Hawthorn",
+        "content": "a strong floral honeyed sweet fragrance with dirty animalic nuances.",
+        "line": {
+            "id": 11,
+            "name": "Oriental",
+            "content": "무거우면서 부드럽고 고혹적인 향, 증후하고 달콤하며 센슈얼한 향",
+            "color": "C061FF"
+        }
+    },
+    {
+        "id": 361,
+        "name": "Heather",
+        "content": "a sweet and aromatic honey floral note",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 362,
+        "name": "Heliotrope",
+        "content": "almond-smelling, vanilla-like note with very hazy, flou contours, recreated via heliotropin",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 363,
+        "name": "Hellabore Flower",
+        "content": "powdery smelling note that recalls primroses",
+        "line": {
+            "id": 14,
+            "name": "Powdery",
+            "content": "포근한 향",
+            "color": "FFFFFF"
+        }
+    },
+    {
+        "id": 372,
+        "name": "Hoya Carnosa Wax Plant",
+        "content": "The scent depends on certain specie of the plant, can vary from vanilla, sweet to fresh citrusy.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 373,
+        "name": "Hyacinth",
+        "content": "An intense sharp green multifaceted floral note.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 374,
+        "name": "Hyssop",
+        "content": "Hyssop oil has a warm aromatic sharp camphoraceous scent.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 375,
+        "name": "Impatiens",
+        "content": "A fantasy delicate floral note of fragile shade loving impatiens.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 377,
+        "name": "Iris",
+        "content": "A natural iris (iris root) note is earthy, woody, powdery, reminiscent of boiled carrot. A fantasy iris note is a powdery floral, reminiscent of the violet flower.",
+        "line": {
+            "id": 14,
+            "name": "Powdery",
+            "content": "포근한 향",
+            "color": "FFFFFF"
+        }
+    },
+    {
+        "id": 382,
+        "name": "Jarana Flower",
+        "content": "Vibrant watery and intense floral touch. Its smell is reminiscent of the fresh waters of Brazilian rivers.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 385,
+        "name": "Kadam",
+        "content": "A sweet tropical floral woody scent, similar to champaca.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 389,
+        "name": "Kiwi blossom",
+        "content": "A tropical fruity floral tropical note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 391,
+        "name": "Laburnum",
+        "content": "also called \"golden chain tree\", lightly fragrant tree with resinous properties of its sapwood for musical instruments use",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 399,
+        "name": "Lavender",
+        "content": "An aromatic floral clean note, with green, fresh spicy, licorice facets.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 402,
+        "name": "Liatris",
+        "content": "a sweet floral, sultry, honey note.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 404,
+        "name": "Lilac",
+        "content": "A fine floral powdery fragrance with nuances of honey and jasmine-like green freshness.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 411,
+        "name": "Lydia Broom",
+        "content": "plant belonging in the Genista family with dry, bracken-like and honey nuanced scent profile",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 414,
+        "name": "Magnolia",
+        "content": "waxy lemony tinged floral, fresh and lush at the same time",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 415,
+        "name": "Magnolia Brooklynensis",
+        "content": "A fantasy floral note",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 416,
+        "name": "Magnolia Leaf",
+        "content": "Leaves of white champaca have a sweet green gentle fragrance when crushed.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 418,
+        "name": "Malva",
+        "content": "The scent is rosy, aromatic, spicy, green.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 419,
+        "name": "Mango Blossom",
+        "content": "a very sweet floral scent with fruity tropical nuance",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 426,
+        "name": "Mignonette",
+        "content": "a very sweet-smelling and pleasant Mediterranean flower with violet-like and fruity nuances.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 427,
+        "name": "Mimosa",
+        "content": "A very sweet powdery floral note with light green and woody nuances.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 429,
+        "name": "Mirabilis",
+        "content": "also called 4 o'clock flower or marvel of Peru, fantasy note reminiscent of the decorative beauty of the small bell shaped flowers which smell intensely sweet",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 431,
+        "name": "Monoi Oil",
+        "content": "a note of tiare flower mixed with coconut, usually associated with suntan lotion.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 433,
+        "name": "Moss Flox",
+        "content": "The smell of its flowers somewhat resembles the one of marijuana.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 434,
+        "name": "Myrtle",
+        "content": "a herbal camphoraceous fragrance with sweet and fresh aromatic nuances.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 435,
+        "name": "Narcissus",
+        "content": "It has a heady, opulent floral animalic scent with green nuances and a hint of hay and tobacco.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 437,
+        "name": "Nasturtium",
+        "content": "a sweet green and spicy floral note.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 439,
+        "name": "Nerium Oleander",
+        "content": "a talcum-like floral note, with hints of pollen sweetness",
+        "line": {
+            "id": 14,
+            "name": "Powdery",
+            "content": "포근한 향",
+            "color": "FFFFFF"
+        }
+    },
+    {
+        "id": 440,
+        "name": "Nigella",
+        "content": "The nigella seeds oil, after aging, has a pleasant fruity-woody musky fragrance, like ambrette seeds oil, cognac, and wild strawberries.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 441,
+        "name": "Night Blooming Jasmine",
+        "content": "an intense sweet jasmine-like fragrance.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 449,
+        "name": "Orchid",
+        "content": "Usually a fantasy synthetic floral note.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 454,
+        "name": "Orris Root",
+        "content": "A powdery earthy rooty scent, with woody, violet flower nuances.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 459,
+        "name": "Passion Flower",
+        "content": "A sweet tropical fragrance, reminiscent of grapes.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 462,
+        "name": "Pear Blossom",
+        "content": "An airy fruity floral note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 464,
+        "name": "Peony",
+        "content": "A fresh floral fantasy note. It can't be extracted from peony flowers.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 466,
+        "name": "Petalia",
+        "content": "It has a fresh floral scent of peony, lily-of-the-valley, rose with a fruity undertone. Very fresh, light and diffusive.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 469,
+        "name": "Pineapple Blossom",
+        "content": "A fantasy fruity floral note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 472,
+        "name": "Pinwheel Flower",
+        "content": "Pinwheel jasmines are found in tropical regions all over the world and are also grown indoors. They have ceremonial importance to certain indigenous peoples of South America. The common name for these shrubs and trees derives from the milky sap that the plants exude. Some wood sap serves as food for the larvae of certain moths. They are sweet and have an intense white floral color.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 477,
+        "name": "Poinsettia",
+        "content": "flower with a pine-like terpenic scent profile, prone to fungus though giving it a mushroom note",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 478,
+        "name": "Pomegranate Blossom",
+        "content": "sweetish tangy bloom with a nuance of dark fruit",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 482,
+        "name": "Privet",
+        "content": "spring-smelling, fresh note reminiscent of the privet bush with a cat-piss nuance sometimes",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 486,
+        "name": "Rangoon Creeper",
+        "content": "Sweet and fruity, strong and intoxicating, reminiscent of white flowers and honeysuckle.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 487,
+        "name": "Raspberry Blossom",
+        "content": "A fantasy fruity floral note with a nuance of rose.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 492,
+        "name": "Rosa Alba",
+        "content": "With an elegant and very floral aroma, it manages to be subtle with a sweet background.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 494,
+        "name": "Rose",
+        "content": "the king of flowers, lemony fresh with various nuances of powder, wood notes or fruit, feminine, clean, intensely romantic",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 495,
+        "name": "Rose Hip",
+        "content": "a rosy fruity note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 496,
+        "name": "Rose Japanese (Hamanasu)",
+        "content": "orange-laced note with sweet aspects",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 497,
+        "name": "Rose Mallow",
+        "content": "flower with a fresh aniseed undertone, used in perfumery paired with resins and intense, heady florals such as narcissus",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 501,
+        "name": "Rosyfolia",
+        "content": "Rosyfolia® is a floral, rosy, geraniol note with an elegant, fruity airiness.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 502,
+        "name": "Safflower",
+        "content": "A delicate floral fragrance.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 505,
+        "name": "Sandalwood Flower",
+        "content": "Flowers of Santalum album have a pleasant sandalwood smell.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 509,
+        "name": "Siberian Rhododendron",
+        "content": "A hespiridic floral with aromatic spicy amber undertone.",
+        "line": {
+            "id": 11,
+            "name": "Oriental",
+            "content": "무거우면서 부드럽고 고혹적인 향, 증후하고 달콤하며 센슈얼한 향",
+            "color": "C061FF"
+        }
+    },
+    {
+        "id": 515,
+        "name": "Snowdrops",
+        "content": "a spring-smelling, cool, fresh fantasy floral note inspired by the tiny blossoms of snowdrop.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 518,
+        "name": "Sour Cherry Blossom",
+        "content": "a fantasy floral fruity note of a delicate nature.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 519,
+        "name": "Spanish Broom",
+        "content": "A sweet yellow floral with honey, pollen nuances.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 524,
+        "name": "Strelitzia",
+        "content": "also called Bird of Paradise, subtly tropical and herbal smelling, a fantasy note in perfumes",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 526,
+        "name": "Sunflower",
+        "content": "a subtle scent of herbal and hay-like nuance, very soft.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 527,
+        "name": "Sweet Pea",
+        "content": "a light sweet fruity floral note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 528,
+        "name": "Taif Rose",
+        "content": "a variety of rose that has a faint tea-like tannic nuance to its powdery soft bouquet",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 530,
+        "name": "Tobacco Blossom",
+        "content": "summary hay and leather scent with dry floral tonality, very inviting, and not at all smelling like rich pipe tobacco or cigarette ash",
+        "line": {
+            "id": 15,
+            "name": "Tobacco Leather",
+            "content": "마초적인 남성의 개성이 강한 매력적인 향",
+            "color": "000000"
+        }
+    },
+    {
+        "id": 535,
+        "name": "Viburnum",
+        "content": "Viburnum flowers are delicately sweetly scented with a hint of vanilla, almond and fruity nuances, similar to heliotrope and honeysuckle.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 541,
+        "name": "Water Hyacinth",
+        "content": "a green floral with an aquatic nuance, less dramatic than the regular hyacinth.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 542,
+        "name": "Water Lily",
+        "content": "A fresh and fine soft aquatic floral fragrance.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 548,
+        "name": "Wildflowers",
+        "content": "a fantasy note of aromatic and sweet wild flowers with an herbal nuance.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 549,
+        "name": "Wisteria",
+        "content": "a spicy floral note with nuances of lilac and clove.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 556,
+        "name": "Arum Lily",
+        "content": "a mild scent of pollen and waxy petals.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 558,
+        "name": "Black Locust",
+        "content": "an intense and pleasant floral note reminiscent of mimosa and orange blossom.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 559,
+        "name": "Boronia",
+        "content": "an airy fresh and fruity sweet floral note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 560,
+        "name": "Carissa",
+        "content": "Similar to jasmine and gardenia, sweet white floral fragrance with a fruity nuance.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 561,
+        "name": "Datura",
+        "content": "a fantasy note of very sweet narcotic scent. The flower and all parts of the plant are extremely poisonous.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 562,
+        "name": "Frangipani",
+        "content": "A tropical floral fruity note with a citrus nuance.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 563,
+        "name": "Gardenia",
+        "content": "An intoxicating white floral note with piquant green and earthy mushroom nuances.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 564,
+        "name": "Grapefruit Blossom",
+        "content": "A white floral scent reminiscent of orange blossom, but fresher, less animalic.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 565,
+        "name": "Honeysuckle",
+        "content": "A sweet floral note with a nuance of honey and pollen.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 566,
+        "name": "Jasmine",
+        "content": "Sweet, white floral, opulent, can be more indolic or greener and fresher when synthesized in the lab.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 568,
+        "name": "Lemon Blossom",
+        "content": "a lighter, airier and tangier sparkling floral note than orange blossom, less animalic and sweet.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 569,
+        "name": "Lily",
+        "content": "A spicy floral note, sweet and waxy.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 570,
+        "name": "Mandarin Orange Blossom",
+        "content": "a sweet floral and somewhat fruity-smelling note close to orange blossom",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 572,
+        "name": "Mock Orange",
+        "content": "a floral note of Philadelphus Coronarius (Absolu de Seringe), it is often confused with lilac, but it is not even related. The note has a sweet rich floral profile reminiscent of gardenia, honeysuckle, orange blossom.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 574,
+        "name": "Night Blooming Cereus",
+        "content": "It is a tropical cactus plant with flowers that have a dusty white floral smell with a soft spicy undertone.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 575,
+        "name": "Orange Blossom",
+        "content": "A fresh and sweet white floral note with an animalic undertone.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 577,
+        "name": "Syringa",
+        "content": "a floral note of Philadelphus Coronarius (Absolu de Seringe), it is often confused with lilac, but it is not even related. The note has a sweet rich floral profile reminiscent of gardenia, honeysuckle, orange blossom.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 578,
+        "name": "Tangerine Blossom",
+        "content": "smells like mandarin orange blossom",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 579,
+        "name": "Tiare Flower",
+        "content": "A white floral note, creamy, fruity and indolic.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 585,
+        "name": "Aloe Vera",
+        "content": "a green sappy note.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 587,
+        "name": "Angelica",
+        "content": "a musky woody, sweet rooty smell.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 590,
+        "name": "Arnica",
+        "content": "grassy and dusty smelling flowers, the plant is used for its medicinal uses",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 595,
+        "name": "Avocado",
+        "content": "oily, green vegetal scent, not frequently used in perfumery",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 598,
+        "name": "Banana Leaf",
+        "content": "green and sappy, fresh note.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 612,
+        "name": "Buchu or Agathosma",
+        "content": "The essential oil is steam distilled from dried leaves of Barosma Betulina. It has a peculiar penetrating bitter-sweet, camphor, phenolic.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 615,
+        "name": "Bulrush",
+        "content": "unusual herbal green aqueous note, very rare in perfumery",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 618,
+        "name": "Calamus",
+        "content": "a warm spicy woody note with sweet undertones.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 619,
+        "name": "Calycanthus",
+        "content": "known as Spice Bush (calycanthus occidentalis) or Sweet Shrub (calycanthus floridus), it smells like Burgundy Wine or fruit (grapefruit and strawberry) according to variety",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 621,
+        "name": "Cannabis",
+        "content": "an aromatic smoky note with a dirty sour nuance.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 627,
+        "name": "Celery",
+        "content": "Celery oil is extracted from seeds of the plant. It has a familiar celery smell, but less green and fresh.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 628,
+        "name": "Celery Seeds",
+        "content": "seeds that smell like celery, warm and earthy, but less green and fresh.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 638,
+        "name": "Coleus",
+        "content": "Earthy, woody, smoky, aromatic, clay.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 640,
+        "name": "Crithmum",
+        "content": "An aromatic warm spicy note.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 641,
+        "name": "Davana",
+        "content": "a sharp herbal bitter green note with a balsamic undertone.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 646,
+        "name": "Fern",
+        "content": "a fantasy note reminiscent of a shadowy forest's flora, often used as a term for the fougere family of fragrances",
+        "line": {
+            "id": 8,
+            "name": "Fougere",
+            "content": "부드럽고 싱그러운 남성의 향",
+            "color": "7ED3BB"
+        }
+    },
+    {
+        "id": 647,
+        "name": "Flouve",
+        "content": "The Flouve herb, originally from France, has a bittersweet, complex and charming appearance.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 659,
+        "name": "Grass",
+        "content": "a sweet yet very fresh scent of cut grass, green uplifting.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 663,
+        "name": "Green Notes",
+        "content": "A generic term for notes that evoke snapped leaves, foliage, green vegetal scents.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 668,
+        "name": "Hat Straw",
+        "content": "A fantasy note of a straw hat.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 673,
+        "name": "Immortelle",
+        "content": "A sweet and dry herbaceous note, reminiscent of hay, tobacco, and honey.",
+        "line": {
+            "id": 15,
+            "name": "Tobacco Leather",
+            "content": "마초적인 남성의 개성이 강한 매력적인 향",
+            "color": "000000"
+        }
+    },
+    {
+        "id": 676,
+        "name": "Jatamansi or Spikenard",
+        "content": "An earthy aromatic herbal note.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 678,
+        "name": "Juniper",
+        "content": "It has a fresh balsamic, aromatic fragrance with piney nuances.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 680,
+        "name": "Katsura Leaf",
+        "content": "In fall, dying leaves of Katsura tree give off a sweet caramel-like fragrance due to maltol occured in the leaves.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 682,
+        "name": "Kunzea",
+        "content": "A fresh and sweet aromatic eucalyptus-like scent.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 686,
+        "name": "Laurissilva Forest",
+        "content": "Laurissilva is a type of very humid forest, composed mostly of trees from the Lauraceae family and endemic to Macaronesia, a region formed by the archipelagos of Madeira, Azores, Canary Islands and Cape Verde.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 691,
+        "name": "Linaloe Berry",
+        "content": "It has a light aromatic citrus scent.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 696,
+        "name": "Marjoram",
+        "content": "a spicy herbal dry aromatic note.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 698,
+        "name": "Mate",
+        "content": "a bitterish tea note from Latin America, sometimes used to reinforce herbal aspects or to tone down florals.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 701,
+        "name": "Mint",
+        "content": "A refreshing and cooling green note with peppery aspects.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 702,
+        "name": "Mistletoe",
+        "content": "evergreen note characteristic to Christmas and rarely used in perfumery",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 709,
+        "name": "Olive Leaf",
+        "content": "Comes from the olive tree, one of the oldest trees known to man, which is sacred in the Mediterranean basin. The leaf has a bitterish green scent that is viscous and smoky. A branch of olive leaves is considered the symbol of peace.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 713,
+        "name": "Palm Leaf",
+        "content": "a vegetal green scent.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 714,
+        "name": "Palmarosa",
+        "content": "unusual rosy green soft note with vegetal nuances",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 715,
+        "name": "Pandanus",
+        "content": "it has a very specific sharp and powerful, but also sweet, honey-like diffusive fragrance.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 718,
+        "name": "Pear Leaf",
+        "content": "green note with waxy nuances, mild",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 719,
+        "name": "Pennyroyal",
+        "content": "With a spicy and herbaceous aromatic content.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 721,
+        "name": "Petrichor",
+        "content": "Earthy aroma produced by rain when it starts to fall and hits the ground, especially if the weather is hot or dry.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 722,
+        "name": "Peyote",
+        "content": "A fantasy green note.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 730,
+        "name": "Rice",
+        "content": "a fantasy note, grassy, nutty and earthy, reminiscent of steamed basmati rice, warm and cozy.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 731,
+        "name": "Rooibos Red Tea",
+        "content": "a sweetish herbal infusion that is not really tea (i.e. Camelia sinensis), coming from the Aspalathus linear plant instead",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 735,
+        "name": "Rosemary",
+        "content": "Аn aromatic culinary herb with a camphorous, minty profile.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 737,
+        "name": "Rue",
+        "content": "A sharp herbaceous note with sweet fruity undertones.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 741,
+        "name": "Sage",
+        "content": "savory, aromatic culinary note with hazy, soft and mildly peppery aspects belonging to the salvia family",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 746,
+        "name": "Seaweed",
+        "content": "a salty, marine, iodine, aromatic fragrance.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 747,
+        "name": "Senecio",
+        "content": "With an oily, green, strong and giant aroma.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 748,
+        "name": "Shiso",
+        "content": "a member of the mint family, Asian culinary herb which has a peppery fresh green profile",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 751,
+        "name": "Siriuba Tree",
+        "content": "The tree has specialized structures called \"salt glands\", which are so called because they excrete salt that is absorbed by the plant. Woody and saline odor.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 752,
+        "name": "Skunk Cabbage",
+        "content": "a musky note of vegetal origin",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 754,
+        "name": "Spearmint",
+        "content": "A refreshing and cooling green mint note with a dash of sweetness and mellow spiciness.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 757,
+        "name": "Strawberry Leaf",
+        "content": "tart green scent of snapped leaves",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 761,
+        "name": "Sweet Grass",
+        "content": "A sweet grassy coumarin scent.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 762,
+        "name": "Tangerine Leaves",
+        "content": "Green, oily, explosive and earthy citrus odor.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 763,
+        "name": "Tansy",
+        "content": "A sharp and spicy bitter herbaceous fragrance, getting more pungent in higher concentrations.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 764,
+        "name": "Tarragon",
+        "content": "a herbaceous sweet, mildly anisic note.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 765,
+        "name": "Tea",
+        "content": "A sweet herbaceous green fragrance.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 767,
+        "name": "Thyme",
+        "content": "Thyme has a strong rich herbaceous fragrance. Its quality depends on the method of extraction.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 771,
+        "name": "Tomato Leaf",
+        "content": "a green sharp aromatic note.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 774,
+        "name": "Tulsi",
+        "content": "grassy, herbal plant note with ties with basil and comparable scent",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 781,
+        "name": "Wheat",
+        "content": "a cereal-like note with a nutty aspect, used to render a soft, warm, attractive note in oriental/gourmand compositions or whenever a mild modifier is needed.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 787,
+        "name": "Wormwood",
+        "content": "A bitterish, herbal and strong-smelling plant note known as wormwood which aromatizes absinthe and vermouth.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 791,
+        "name": "Anise",
+        "content": "the scent of aniseed, rich in anethol, reminiscent of licorice. Belongs in the same family of scents as tarragon and fennel (also rich in anethol). Very popular in fragrances, notably L'Heure Bleu.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 792,
+        "name": "Asafoetida",
+        "content": "the dried oleoresin of the taproot of the herb known as Ferula with an odor profile between leek and onion. Also known as Devil's Dung, Hing, Ting or stinking gum. Ferula is featured in classics, such as Ma Griffe, and modern fragrances, such as Premier Figuier, alike.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 793,
+        "name": "Bay Leaf",
+        "content": "an aromatic camphorous fragrance.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 795,
+        "name": "Cacao Pod",
+        "content": "A warm spicy gourmand fragrance with amber, balsamic nuances.",
+        "line": {
+            "id": 11,
+            "name": "Oriental",
+            "content": "무거우면서 부드럽고 고혹적인 향, 증후하고 달콤하며 센슈얼한 향",
+            "color": "C061FF"
+        }
+    },
+    {
+        "id": 796,
+        "name": "Caraway",
+        "content": "a sharp and sweet, lightly spicy note coming from the essential oil of caraway seeds when steam distilled.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 797,
+        "name": "Cardamom",
+        "content": "A sweet resinous aromatic and spicy note with a bitter aftertaste.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 799,
+        "name": "Cassia",
+        "content": "cinnamon-like, spicy, earthy, aromatic facets, coming from Cinnamomum aromaticum. Very concentrated, intense spice note.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 800,
+        "name": "Chutney",
+        "content": "a fantasy note inspired by the recipe of India cuisine and accompanying Far East dishes relying on a mix of spices, fruits and vegetables. Sweet, pungent, hot or cold in feel according to the effect desired.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 801,
+        "name": "Cinnamon",
+        "content": "A sweet and warm, powdery tenacious spicy note.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 803,
+        "name": "Clove Leaf",
+        "content": "The smell of clove leaf oil is milder than the clove oil, it is used as a replacement to higher-priced oils, like, for example, black pepper. It is also a source for some other perfume materials extracted from it.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 805,
+        "name": "Coffee",
+        "content": "Coffee berries are produced by the evergreen bush of the genus Coffea. In perfumes the coffee note is an intense, dark roast facet that is linked to the cocoa facet of patchouli in Borneo 1834 (Lutens). Famously put in good use in A*men by Mugler, L'Or de Torrente",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 810,
+        "name": "Cumin",
+        "content": "a spice with an especially pungent, bitter-sour note that can resemble sweat. Polarizing, it can highlight a fragrance creation like no other and is nowadays often used to render an intimate, animalic note in abscence of animalics. Famously overdosed in Kingdom by Alexander McQueen.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 813,
+        "name": "Curry Tree",
+        "content": "Also known as Murraya koenigii and \"sweet neem leaves\", this is a spicy aromatic note reminiscent of the leaves and seeds of the Indian peninsula growing tree. Featured in Oriental Lounge by The Different Company.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 814,
+        "name": "Dill",
+        "content": "a culinary herb rich in anethole with a delicate herbaceous and slightly spicy scent. Pairs well with other spicy herbs such as basil, tarragon, fennel or licorice in aromatic and oriental compositions.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 816,
+        "name": "Fenugreek",
+        "content": "the essence from the yellowish-golden seeds of Trigonella Foenum Graecum is used as a spice. It renders a maple-syrup note in fragrance, common also to helichrysum/immortelle blossom. The note is recognizable (via immortelle essence) in Sables by A.Goutal and (via fenugreek spice) in Santal Blush by Tom Ford.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 817,
+        "name": "Galanga",
+        "content": "a spicy balsamic pleasant fragrance. The oil is produced from rhizomes of Alpinia Officinarum.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 818,
+        "name": "Ginger",
+        "content": "A spicy fizzy top note, with a pronounced fresh citrus facet and piney nuance.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 819,
+        "name": "Green Coffee",
+        "content": "Slightly sweet and neutral.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 821,
+        "name": "Indian Spices",
+        "content": "Umbrella term used to refer to spices of the India subcontinent, comprising the most popular notes in its cuisine. Often curry centered, with accents of cinnamon, clove and cumin.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 825,
+        "name": "Licorice",
+        "content": "A sweet soft spicy anisic fragrance.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 828,
+        "name": "Nutmeg",
+        "content": "It is a fruit of Myristica fragrans, it has a spicy sweet facet with earthy and pungent base notes, and is used to provide an oriental spiciness that is subtler than the usual cinnamon-clove-vanilla bouquet of orientals, thus perfect for masculine and lighter woody fragrances. Notable example is Fahrenheit by Dior and Vetiver Sport by Guerlain.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 829,
+        "name": "Oily Notes",
+        "content": "Different materials give an oily effect, for example, narcissus.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 831,
+        "name": "Pepper",
+        "content": "A hot and bracing note, short-lived and earthy spice, rendered through steam distillation of the berries of the piper negrum bush, which is very popular as a bright accent top note in fragrances. Featured prominently in Piper Negrum by L.Villoresi.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 836,
+        "name": "Pink Pepper",
+        "content": "A fresh spicy floral and herbal top note with rosy nuance.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 837,
+        "name": "Priprioca",
+        "content": "An earthy aromatic woody note.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 838,
+        "name": "Saffron",
+        "content": "A refined note coming from stamens of Crocus sativus, a small flower in the Iris family known since antiquity. Its odor profile is bittersweet, leathery, soft and intimate, with an earthy base note.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 839,
+        "name": "Safraleine",
+        "content": "the essence of saffron, leathery-suede soft with bittersweet tonalities",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 840,
+        "name": "Sesame",
+        "content": "Fragrant note that recalls the sesame seeds of Sesamum indicum, familiar from its use in cuisine all over the world. Comforting, earthy, bread-like and soft.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 842,
+        "name": "Sichuan Pepper",
+        "content": "a peppery note coming from the berries of the Zanthoxylum plant. It is aromatic, herbal, spicy, with a citrus touch.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 844,
+        "name": "Spiked Pepper",
+        "content": "With a fougère green aroma, it exudes spiciness and oily nuances when crumbled.",
+        "line": {
+            "id": 8,
+            "name": "Fougere",
+            "content": "부드럽고 싱그러운 남성의 향",
+            "color": "7ED3BB"
+        }
+    },
+    {
+        "id": 845,
+        "name": "Star Anise",
+        "content": "A soft powdery floral spicy fragrance with nuances of licorice.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 848,
+        "name": "Timur",
+        "content": "Spicy fresh, airy, slightly salty, reminiscent of grapefruit.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 849,
+        "name": "Tonka Bean",
+        "content": "Tonka beans - fruits of Dipteryx odorata, a tropical tree native to Central and South America - contain 1-3% of coumarin. Tonka bean absolute contains 90% of coumarin. Depends on the amount, the scent varies from green grassy to sweet tobacco almond.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 850,
+        "name": "Toscanol",
+        "content": "anisic molecule aimed to give an agrestic and sweet-spicy note to fragrances with hints of licorice, aiding diffusion and projection. It can substitute basil and tarragon",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 852,
+        "name": "Vanilla",
+        "content": "An ever popular fragrance note, known mostly through its synthetic variant vanillin, which is sweet, cozy, comforting, with a pleasing cookie-baking feeling to it. Alongside amber, the reference note for the Oriental family of scents (The most famous classic being Shalimar). The real vanilla pod has darker facets that recall treacle and booze with off notes. Simple vanillas (Victoria's Secret Love to Dream, Charlie Touch, TBS Vanilla, Coty Vanilla Musk) have become increasingly popular with the adolescent market, giving rise to the umbiquity of the gourmand category of scents, while complex, earthier vanillas are appearing steadily in the niche sector (Spirituese Double Vanille by Guerlain, Tihota Indult, Montale Vanille Absolue).",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 862,
+        "name": "Baklava",
+        "content": "An extremely sweet syrupy dessert with nuts, a fantasy note.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 866,
+        "name": "Brioche",
+        "content": "Freshly baked sweet bread.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 872,
+        "name": "Butter",
+        "content": "a creamy buttery note from different sources.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 881,
+        "name": "Candies",
+        "content": "a sweet fantasy note that recalls sugar and hard candy with the scent of assorted fruits and flavors.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 883,
+        "name": "Caramel",
+        "content": "A candy-deep, sensual and rich, creamy buttery lactonic note that enriches gourmand perfumes and adds sweetness to floral compositions.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 898,
+        "name": "Cookie",
+        "content": "a sweet fantasy note.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 902,
+        "name": "Cream",
+        "content": "A fantasy note or aspect of a number of ingredients.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 905,
+        "name": "Croissant",
+        "content": "a fantasy gourmand note that has buttery facets but also a starch and baked feel.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 906,
+        "name": "Cupcake",
+        "content": "a modern gourmand note that exploits the craziness for brightly colored desserts with cream and chocolate",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 907,
+        "name": "Custard",
+        "content": "a sweet delicious cream.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 908,
+        "name": "Dark Chocolate",
+        "content": "A deep and rich gourmand note, rather bitter than sweet.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 909,
+        "name": "Dates",
+        "content": "a sweet fruity sugary note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 914,
+        "name": "French Pastries",
+        "content": "A sweet fantasy note of sweets with cream and fruits.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 925,
+        "name": "Honeycomb",
+        "content": "A sweet floral scent of honey and beeswax.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 926,
+        "name": "Horchata",
+        "content": "Nutty, sweet, little bit earthy (tiger nuts).",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 927,
+        "name": "Ice cream",
+        "content": "a fantasy note of the sweet dessert.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 935,
+        "name": "Macarons",
+        "content": "popular fantasy note recreating the bittersweet and savory feel of a macaron dessert, built on almond aroma and heliotrope essence.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 937,
+        "name": "Maple Syrup",
+        "content": "a sweet and spicy note that is built on the fenugreek spice, helichrysum and on pyrazines, giving a toasted caramelic and savory note all at once",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 940,
+        "name": "Marron Glacé",
+        "content": "A sweet and savory note of glazed chestnuts.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 941,
+        "name": "Marshmallow",
+        "content": "a sweet sugary powdery note.",
+        "line": {
+            "id": 14,
+            "name": "Powdery",
+            "content": "포근한 향",
+            "color": "FFFFFF"
+        }
+    },
+    {
+        "id": 942,
+        "name": "Marzipan",
+        "content": "an almondy note with a bittersweet facet, reminiscent of the similarly-named almond paste used in decorating and filling desserts",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 948,
+        "name": "Nougat",
+        "content": "nutty sweet dessert note that plays on hazelnut and almond tones",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 954,
+        "name": "Panna Cotta",
+        "content": "milky and coffee note that recalls the famous Italian dessert",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 959,
+        "name": "Popcorn",
+        "content": "a savory note, comfortable, smoky, and satisfying.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 960,
+        "name": "Praline",
+        "content": "A modern synthetic accord with a soft, but intense sweet lactonic balsamic fragrance.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 976,
+        "name": "Strawberry Syrup",
+        "content": "A sweet fruity note.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 977,
+        "name": "Sugar",
+        "content": "A very popular sugary sweet accord can be also fruity, chocolate or compliment any other note.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 991,
+        "name": "Agarwood (Oud)",
+        "content": "A pathological secretion of the aquillaria tree, a rich, musty woody-nutty scent that is highly prized in the Middle East. In commercial perfumery, it's safe to say all \"oud\" is a recreated synthetic note.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 992,
+        "name": "Akigalawood",
+        "content": "A synthetic molecule reminiscent of patchouli with a hint of pepper and fine agarwood.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 998,
+        "name": "Amyris",
+        "content": "A name referring to either amyris elemifera or amyris balsamifera. It has a fresh piney balsamic fragrance with a citrus nuance.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1011,
+        "name": "Birch",
+        "content": "Birch wood itself has a sweet woody sappy green fragrance. Birch tar is associated with leather fragrances (so called Russian leather).",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1013,
+        "name": "Black Spruce",
+        "content": "A conifer tree that gives a dark-smelling, fir-like coniferous smell to mostly natural perfumes.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1014,
+        "name": "Blackwood",
+        "content": "Coming from the East Asian Dalbergia latifolia species. An uncommon, earthy, woody \"note\".",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1016,
+        "name": "Brazilian Rosewood",
+        "content": "A rich floral-woody note, slightly spicy.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1017,
+        "name": "Buddha Wood",
+        "content": "woody, balsamic, mossy, deep, smoky, with vetiver and sandalwood facetes",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1018,
+        "name": "Buxus",
+        "content": "A bush also known as boxwood. Not very common, but useful as a woody note.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1019,
+        "name": "Cabreuva",
+        "content": "a delicate sweet woody smell with a fruity nuance.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1025,
+        "name": "Cedar",
+        "content": "An soft woody note coming from either the Atlas Mountains (Morocco) or the Virginia (US) cedarwood. There are also many cedar-smelling synthetics in use.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1030,
+        "name": "Clearwood",
+        "content": "A molecule by Firmenich: soft woody transparent, patchouli without dirty noise, earthy hue.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1031,
+        "name": "Cocobolo",
+        "content": "Fantasy note inspired by the bright reddish-brown decorative Dalbergia retusa wood.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1037,
+        "name": "Cypriol Oil or Nagarmotha",
+        "content": "A powerful earthy aromatic woody fragrance.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1041,
+        "name": "Driftwood",
+        "content": "a dry woody note with salty aromatic nuances.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1044,
+        "name": "Ebony Tree",
+        "content": "Evocative of the black decorative wood, it is a \"note\" appearing in niche compositions and woody fragrances where a darker element is desired.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1046,
+        "name": "Eucalyptus",
+        "content": "a camphorous aromatic woody note with fruity nuances.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1047,
+        "name": "Fig tree",
+        "content": "A complex, green powdery and silky note that evokes the milky, coconut-tinged sap of the fruit, the dark, bitter and dusty green of the leaves, as well as the bark of the tree and the earth underneath. Very popular in niche perfumery. The most celebrated examples are Premier Figuier (L'Artisan) and Philosykos (Diptyque).",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1048,
+        "name": "Fir",
+        "content": "Fir absolute is a sweet balsamic, aromatic green spicy fragrance.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1052,
+        "name": "Hinoki Wood",
+        "content": "Famously highlighted in Hinoki by Comme des Garcons, it is a type of cypress that is prized in Japan. Evergreen smelling with lemony facets.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1062,
+        "name": "Larch",
+        "content": "Woody note evocative of the conifer tree growing in the colder countries of the Norther Hemisphere. Very uncommon.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1063,
+        "name": "Lichen",
+        "content": "the same as oakmoss.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1068,
+        "name": "Manuka",
+        "content": "Related to the tea tree, it comes from the Leptospermum scoparium species.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1069,
+        "name": "Maple",
+        "content": "a sweetish woody note, reminiscent of maple syrup.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1070,
+        "name": "Massoia",
+        "content": "A milky-smelling woody note, famously used in Santal Massoia Hermes.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1071,
+        "name": "Mesquite Wood",
+        "content": "A strong and pleasant woody scent.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1072,
+        "name": "Muhuhu",
+        "content": "Woody note coming from the Brachylaena hutchinsii species of tree. Extremely uncommon.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1075,
+        "name": "Neem",
+        "content": "Woody note coming from the Azadirachta indica species of tree. Extremely uncommon.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1076,
+        "name": "Nootka",
+        "content": "woody, aromatic with hints of grapefruit",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 1077,
+        "name": "Oak",
+        "content": "An aromatic woody fragrance with eathy nuances.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1079,
+        "name": "Olive Tree",
+        "content": "a fantasy note of a savory woody green fragrance.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1080,
+        "name": "Palisander Rosewood",
+        "content": "Redwood or palisander (refers to a number of beautifully nuanced timber) has a soft sweet woody fragrance.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1081,
+        "name": "Palo Santo",
+        "content": "a woody note with a fresh citrus touch.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 1084,
+        "name": "Paperbark",
+        "content": "Also known as Melaleuca, an indigenous to Australia evergreen tree with bottle-brush flowers, in the myrtle family with fresh smelling, aromatic foliage.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1085,
+        "name": "Papyrus",
+        "content": "a powerful dry aromatic woody scent with smoky and leathery nuances.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1089,
+        "name": "Pear Tree",
+        "content": "Fantasy note evoking the tangy-sweet fruity and woody notes of the pear tree.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1093,
+        "name": "Plum Tree",
+        "content": "A woodier, more sturdy note that takes the succulent scent of plum and adds to it.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1105,
+        "name": "Sequoia",
+        "content": "Inspired by the mighty sequoia trees, a woody note that is gaining increased popularity in fragrances.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1106,
+        "name": "Siam",
+        "content": "From the Siamese cassia tree which bears small yellow blossoms, also known as senna with a particular herbal, bitter aroma.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1108,
+        "name": "Spruce",
+        "content": "A green woody balsamic fragrance with a sweetish undertone.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1113,
+        "name": "Teak Wood",
+        "content": "a fantasy \"blond\" woody note.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1116,
+        "name": "Thuja",
+        "content": "Woody note reminiscent of the thuja tree, which belongs in the cypress family. Also known as red cedar or white cedar, though it is not related to cedar botanically.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1118,
+        "name": "Vetiver",
+        "content": "Vetivers from different parts of the world differ a lot. For example, Haitian vetiver is clean and ethereal, while the Javanese one is smoky and dusty. If we have to generalize the scent, it is earthy, woody, green.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1130,
+        "name": "Benzoin",
+        "content": "A warm balsamic note reminiscent of vanilla.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1131,
+        "name": "Birch Tar",
+        "content": "One of the natural materials used for recreating a smell of leather.",
+        "line": {
+            "id": 15,
+            "name": "Tobacco Leather",
+            "content": "마초적인 남성의 개성이 강한 매력적인 향",
+            "color": "000000"
+        }
+    },
+    {
+        "id": 1132,
+        "name": "Bisabolene",
+        "content": "Bisabolene has a warm, sweet-spicy-balsamic odour very typical of opoponax and \"oriental\" fragrance types. It finds use in artificial oil of bergamot, myrrh and lemon, and is an excellent fixative for neroli bases.",
+        "line": {
+            "id": 11,
+            "name": "Oriental",
+            "content": "무거우면서 부드럽고 고혹적인 향, 증후하고 달콤하며 센슈얼한 향",
+            "color": "C061FF"
+        }
+    },
+    {
+        "id": 1146,
+        "name": "Estoraque",
+        "content": "The Estoraque is an intense herb that exudes freshness and lightness. It is traditionally used in smell baths in the Amazon, by those looking for renewal. It is believed that this ritual attracts good fluids, due to its green and refreshing olfactory characteristic, awakening a sense of energy and vitality.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1147,
+        "name": "Gurjun Balsam",
+        "content": "Fresh woody and spicy.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1148,
+        "name": "Incense",
+        "content": "Olibanum or Frankincense is usually meant by incense in a fragrance pyramid. It could also refer to a smoky note.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1149,
+        "name": "Labdanum",
+        "content": "A deep, powerful, leathery and ambery note.",
+        "line": {
+            "id": 16,
+            "name": "Amber",
+            "content": "달콤하고 부드러운 향",
+            "color": "FFE8D3"
+        }
+    },
+    {
+        "id": 1150,
+        "name": "Mastic or Lentisque",
+        "content": "a fresh balsamic, turpentine-like scent.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1153,
+        "name": "Myrrh",
+        "content": "One of the oldest known perfume ingredients, it has a warm balsamic, sweet aromatic spicy fragrance.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1155,
+        "name": "Olibanum (Frankincense)",
+        "content": "A fresh balsamic, somewhat green, woody and spicy fragrance with a fruity top note.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1157,
+        "name": "Opoponax",
+        "content": "An intensely sweet balsamic warm spicy fragrance.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1158,
+        "name": "Peru Balsam",
+        "content": "An intense woody coniferous aromatic ambery fragrance.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1160,
+        "name": "Poplar (Populus) Buds",
+        "content": "a peculiar balsamic green and bitter-sweet scent.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1161,
+        "name": "Resins",
+        "content": "A general balsamic amber spicy fragrance, which refers to different sources.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1163,
+        "name": "Styrax",
+        "content": "A dry balsamic note with floral and woody nuances (depending on the method of extraction).",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1168,
+        "name": "Amber",
+        "content": "A sweet, resinous, cozy and warm, often rather powdery note recreated from a mix of balsams, usually labdanum, benzoin, vanilla, styrax and fir or a combination of some of these. A default oriental note.",
+        "line": {
+            "id": 11,
+            "name": "Oriental",
+            "content": "무거우면서 부드럽고 고혹적인 향, 증후하고 달콤하며 센슈얼한 향",
+            "color": "C061FF"
+        }
+    },
+    {
+        "id": 1169,
+        "name": "Amber Xtreme",
+        "content": "Amber, Woody, Dry.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1170,
+        "name": "Ambergris",
+        "content": "A product of the intestines of sperm whales found floating on the ocean and blanched by sea and sun with a skin-like salty and warm effect. Synthetically recreated today.",
+        "line": {
+            "id": 16,
+            "name": "Amber",
+            "content": "달콤하고 부드러운 향",
+            "color": "FFE8D3"
+        }
+    },
+    {
+        "id": 1173,
+        "name": "Ambretone",
+        "content": "Amber-like synthetic to replicate amber, orientalized notes in perfumes",
+        "line": {
+            "id": 16,
+            "name": "Amber",
+            "content": "달콤하고 부드러운 향",
+            "color": "FFE8D3"
+        }
+    },
+    {
+        "id": 1174,
+        "name": "Ambrette (Musk Mallow)",
+        "content": "Ambrette seeds oil has a sweet floral musky fragrance.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1176,
+        "name": "Ambrocenide (Symrise)",
+        "content": "an extremely powerful and very sharp dry woody scent with ambery, slightly animalic and smokey agarwood tones",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1178,
+        "name": "Ambrostar",
+        "content": "woody amber agarwood\r\nA powerful long-lasting amber, woody (agarwood), odor profile. Highly diffusive.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1179,
+        "name": "Ambroxan",
+        "content": "A modern synthetic compound with a dry amber musky smell.",
+        "line": {
+            "id": 16,
+            "name": "Amber",
+            "content": "달콤하고 부드러운 향",
+            "color": "FFE8D3"
+        }
+    },
+    {
+        "id": 1180,
+        "name": "Animal Notes",
+        "content": "Different ingredients, synthetic and natural, can produce an animalic dirty and deep sensual effect.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1181,
+        "name": "Bacon",
+        "content": "a synthesized note that recreates the savory, tasty scent of roasted bacon.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1184,
+        "name": "Carrot Seeds",
+        "content": "a musky, fluffy, cosmetic note.",
+        "line": {
+            "id": 14,
+            "name": "Powdery",
+            "content": "포근한 향",
+            "color": "FFFFFF"
+        }
+    },
+    {
+        "id": 1185,
+        "name": "Castoreum",
+        "content": "a pungent and strong animal-derived note from the beaver, today synthetically recreated for ethical reasons. Smells leathery and very intense.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1189,
+        "name": "Civet",
+        "content": "Naturally the byproduct of the anal glands of exotic civet cats (technically no cats), which smells very pungent and fecal but which gives an amazing radiance and warmth to florals. Now synthetically replicated with civetone for ethical reasons.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1196,
+        "name": "Goat Hair",
+        "content": "natural essence coming from the tinctured hair of a rutting billy goat, used by natural perfumers as an ethically harvested animalic note. Warm and musk-like",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1199,
+        "name": "Hyraceum",
+        "content": "Essence from the small rodent hyrax's dried up crystalline fecal matter, combining olfactory facets of musk, civet and castoreum. \t\r\n\r\nOdor : animal, warm, phenolic, fecal, urinal",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1200,
+        "name": "Kephalis",
+        "content": "Synthetic note with woody-ambery facets, resembling cedar, that blends well with florals and tobacco, very popular with modern fragrances",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1202,
+        "name": "Leather",
+        "content": "Synthetic or naturally derived note of pungent characteristics, reminiscent of cured hides and leather goods. Usually rendered by birch tar or by synth isoquinolines.",
+        "line": {
+            "id": 15,
+            "name": "Tobacco Leather",
+            "content": "마초적인 남성의 개성이 강한 매력적인 향",
+            "color": "000000"
+        }
+    },
+    {
+        "id": 1203,
+        "name": "Meat",
+        "content": "novelty note synthetically reproduced replicating the savory scent of cooked meat",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1204,
+        "name": "Milk",
+        "content": "A warm, comfortable gourmand, but not too sweet note.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1205,
+        "name": "Musk",
+        "content": "There is a wide variety of sources for musk smelling materials, including synthetic musks and natural ones, mainly obtained from plants, since deer musk is forbidden to obtain and sell. The musk is a secretion inside an internal pouch on the abdomen of the male deer. In order to get it, you have to kill the deer.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1206,
+        "name": "Muskrat",
+        "content": "Musky, animalic.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1209,
+        "name": "Sea Shells",
+        "content": "A natural or synthetic savory note.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1212,
+        "name": "Starfish",
+        "content": "A marine note.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 1213,
+        "name": "Suede",
+        "content": "A synthetic note which replicates the soft, pliable, sensuous feel of suede on the skin. Soft, powdery, musky.",
+        "line": {
+            "id": 14,
+            "name": "Powdery",
+            "content": "포근한 향",
+            "color": "FFFFFF"
+        }
+    },
+    {
+        "id": 1214,
+        "name": "Sylkolide",
+        "content": "A musk amber synthetic molecule.",
+        "line": {
+            "id": 16,
+            "name": "Amber",
+            "content": "달콤하고 부드러운 향",
+            "color": "FFE8D3"
+        }
+    },
+    {
+        "id": 1215,
+        "name": "Tolu Balsam",
+        "content": "a sweet amber balsamic fragrance.",
+        "line": {
+            "id": 16,
+            "name": "Amber",
+            "content": "달콤하고 부드러운 향",
+            "color": "FFE8D3"
+        }
+    },
+    {
+        "id": 1216,
+        "name": "Truffle",
+        "content": "a very special gourmand warm and inviting fragrance.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1220,
+        "name": "Amaretto",
+        "content": "Fantasy note reminiscent of bitter almond (the actual liqueur is made from apricot pits which have an almondy nuance), usual in gourmand perfumes.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1226,
+        "name": "Bellini",
+        "content": "A fantasy note which has a peachy, sparkling effect in perfume compositions. Pairs well with creamy and feminine florals.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1230,
+        "name": "Buttered Rum",
+        "content": "Buttery, intense and giant distilled drink odor.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1233,
+        "name": "Calvados Drink",
+        "content": "Calvados is the name of a distilled alcoholic drink, originating in Lower Normandy, France, made from apples, from which cider is extracted, which is then fermented and distilled.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1234,
+        "name": "Campari",
+        "content": "Bitters fantasy note, useful for sparkle and vibrancy",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1235,
+        "name": "Cappuccino",
+        "content": "A smooth, delicious note of coffee and milky lactonic facets, useful in gourmand compositions.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1236,
+        "name": "Champagne",
+        "content": "A sparkling, fizzy note (aldehydes, citrus, fruits, spice).",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 1240,
+        "name": "Coca-Cola",
+        "content": "A combined effect of the following essences: cinnamon, lime, lemon, orange, coriander, vanilla and nutmeg, much like in the actual soft drink.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 1242,
+        "name": "Cognac",
+        "content": "A spicy rich, fruity oaky note wth amber woody undertones.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1243,
+        "name": "Cognac",
+        "content": "a variation on Cognac from Eastern Europe, complex, deep, oaky and with delicious depth",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1245,
+        "name": "Cream Soda",
+        "content": "a vanilla-laced soft drink note which can be sometimes detected in gourmand compositions.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1252,
+        "name": "Génépi",
+        "content": "Aromatic, smooth herbal liqueur.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1253,
+        "name": "Gin",
+        "content": "a classic juniper berry note which appears in gin liquor, bracing, mind-clearing, exhilarating, useful in woody, fougere and chypre compositions to give a piquant start.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1258,
+        "name": "Jasmine Tea",
+        "content": "a fresh fantasy note",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1262,
+        "name": "Lemonade",
+        "content": "classic tart lemon and fruity sweetness note which is refreshing and almost feels thirst-quenching in fragrances. Contrary to lemon essential oil and lemon rind it has no floral or resinous components.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 1263,
+        "name": "Limoncello",
+        "content": "intense lemon, bittersweet fantasy note that is perfect to give a gourmand or modern oriental a tart and succulent opening",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 1269,
+        "name": "Martini",
+        "content": "dry, sophisticated and fun fantasy note reminiscent of the classic cocktail, useful for dry and refreshing fragrance compositions",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 1270,
+        "name": "Masala Chai",
+        "content": "A variation of the sweet, spicy tea blend which has soothing, comforting facets to its odor profile. Fantasy note which is featured in Omnia by Bvlgari.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1273,
+        "name": "Mocha",
+        "content": "Mocha is a coffee-based drink made with espresso, steamed milk, chocolate and whipped cream.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1274,
+        "name": "Mojito",
+        "content": "a fresh fantasy note reminiscent of mojito (lime, mint).",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 1279,
+        "name": "Pina Colada",
+        "content": "tropical, sweet note that recalls the famous cocktail, with nuances of creamy coconut and fruity pineapple. Frequent in \"gourmand\" and \"fresh\" compositions.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1287,
+        "name": "Rhum Agricole",
+        "content": "A fantasy note of sugarcane juice rum",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1292,
+        "name": "Soy Milk",
+        "content": "Savory milky note.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1296,
+        "name": "Tequila",
+        "content": "fantasy note reminiscent of the drink made from blue agave, a cactus. Salty and bittersweet, used in a variety of tropical or fresgh fragrance blends.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1302,
+        "name": "Vodka",
+        "content": "a mild alcoholic note of slight aromatic piquancy.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1303,
+        "name": "Whiskey",
+        "content": "a complex note that comprises facets of sweet hay, oak barrels, chocolate, dried fruits, honey, and mild spices. Sophisticated, warm and deep, usual in orientals, woody fragrances and some chypres.",
+        "line": {
+            "id": 11,
+            "name": "Oriental",
+            "content": "무거우면서 부드럽고 고혹적인 향, 증후하고 달콤하며 센슈얼한 향",
+            "color": "C061FF"
+        }
+    },
+    {
+        "id": 1304,
+        "name": "White Wine",
+        "content": "a fruity note reminiscent of white wine.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1306,
+        "name": "Wine must",
+        "content": "A fermented grape smell",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1307,
+        "name": "Pepperwood™",
+        "content": "Odor spicy, peppery, freesia, rose, balsamic.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1308,
+        "name": "Accord Eudora®",
+        "content": "Created by perfumer Joachim Correll, it smells like clean, very hydrated skin.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1311,
+        "name": "Aldehydes",
+        "content": "An abstract soapy, fatty, fresh smell, reminiscent of fresh laundry and frost.",
+        "line": {
+            "id": 6,
+            "name": "Aldehyde",
+            "content": "인공 비누향, 모던하고 우아하면 지적인 향",
+            "color": "98D1FF"
+        }
+    },
+    {
+        "id": 1312,
+        "name": "Aluminum",
+        "content": "An artificial metallic fresh note.",
+        "line": {
+            "id": 6,
+            "name": "Aldehyde",
+            "content": "인공 비누향, 모던하고 우아하면 지적인 향",
+            "color": "98D1FF"
+        }
+    },
+    {
+        "id": 1315,
+        "name": "Ambrofix™",
+        "content": "Ambrofix™ smell is clearly ambery. It's close to a mixture of Iso e Super and Ambrox DL. Woody and fresh, with a piney and nutty nuance. cedarwood, floral, leather-like, slightly tobacco note, and dry musk-like aftertaste. balsamic amber-like.",
+        "line": {
+            "id": 16,
+            "name": "Amber",
+            "content": "달콤하고 부드러운 향",
+            "color": "FFE8D3"
+        }
+    },
+    {
+        "id": 1318,
+        "name": "Amyl Salicylate",
+        "content": "a fresh fruity floral green fragrance reminiscent of unripe banana",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1321,
+        "name": "Aquozone",
+        "content": "Created by Firmenich, an aquatic marine scent.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 1327,
+        "name": "Blood",
+        "content": "A disturbing fresh metallic nuance.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1328,
+        "name": "Boisiris",
+        "content": "Boisiris has an elegant powdery woody scent with orris and warm tobacco/amber understones.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1331,
+        "name": "Brown Scotch Tape",
+        "content": "Fantasy note with a glue and plastic scent used in avant-garde releases, such as Comme des Garcons",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1333,
+        "name": "Calone",
+        "content": "a synthetic note composed to reproduce the light, airy and aqueous feel of watermelon/melon.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1335,
+        "name": "Camphor",
+        "content": "white crystals that smell like mothballs, this note is used to render a bracing, intensely green and pungent note that cuts through the intense sweetness and decay of some white flowers. Especially infamous in Tubereuse Criminelle by Lutens and Carnal Flower by F.Malle where it balances the tuberose.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1337,
+        "name": "Canvas",
+        "content": "Earthy, moist, soggy, slightly bitter.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1338,
+        "name": "Caoutchouc",
+        "content": "It is a naturally sourced rubber material.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1339,
+        "name": "Cascalone",
+        "content": "A note of fresh water with a fruity hue.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 1341,
+        "name": "Cashmeran",
+        "content": "A popular synthetic accord with a soft diffusive warm woody musky amber scent, reminiscent of cashmere wool.",
+        "line": {
+            "id": 16,
+            "name": "Amber",
+            "content": "달콤하고 부드러운 향",
+            "color": "FFE8D3"
+        }
+    },
+    {
+        "id": 1347,
+        "name": "Clay",
+        "content": "A note is reminiscent of terra-cotta tiles and the muddy scent of earth. Often a product of composition rather than a specific synthetic.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1355,
+        "name": "Coranol",
+        "content": "It is a Firmenich molecule with a fresh floral rosy scent with a slight metalic hue.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 1357,
+        "name": "Cosmone",
+        "content": "A \"white musk\" scent with pleasantly sweetish, anisic undertones.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1358,
+        "name": "Coumarin",
+        "content": "the odor profile depends on the quantity of the material: it can be herbal like hay, or sweet and warm like caramelized almonds.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1361,
+        "name": "Cuban Cigar",
+        "content": "Tobacco burning, with a greenish and tenacious touch.",
+        "line": {
+            "id": 15,
+            "name": "Tobacco Leather",
+            "content": "마초적인 남성의 개성이 강한 매력적인 향",
+            "color": "000000"
+        }
+    },
+    {
+        "id": 1364,
+        "name": "Dew Drop",
+        "content": "A fresh natural note of water usually paired with flowers or green notes.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 1369,
+        "name": "Dust",
+        "content": "Dry, dusty, dense, closed and instigating odor.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1370,
+        "name": "Earth Tincture",
+        "content": "Essence used by perfumers to render a note of dirt, as in gardening or earth dust.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1374,
+        "name": "Ethyl Maltol",
+        "content": "a warm-fruity caramel sweet jam-like odor with an aspect of cotton candy.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1377,
+        "name": "Fabric",
+        "content": "A fantasy clean note.",
+        "line": {
+            "id": 6,
+            "name": "Aldehyde",
+            "content": "인공 비누향, 모던하고 우아하면 지적인 향",
+            "color": "98D1FF"
+        }
+    },
+    {
+        "id": 1385,
+        "name": "Galaxolide",
+        "content": "Galaxolide is a synthetic musk with a lightweight clean pleasant somewhat fruity fragrance.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1388,
+        "name": "Geosmin",
+        "content": "Synthetic note, originally composed in nature by Streptomyces bacteria among other components such as the Germacradienol synthase enzyme.  It contributes the effect of rained upon earth, very easily detectable and beloved by humans.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1392,
+        "name": "Gunpowder",
+        "content": "Fantasy note with peppery, sulfurous and pyrocaustic/firecracker facets.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1395,
+        "name": "Head Space Waterfall",
+        "content": "A note of fresh water obtained by a head space technique.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 1396,
+        "name": "Healingwood",
+        "content": "Healingwood has the deep, woody aspect of patchouli, with a much more radiant and vibrant aspect. It’s particularly useful in modern chypre notes, as it imparts this bright aspect which cannot be found in patchouli crude oil. It’s also highly impactful and complex.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1397,
+        "name": "Hedione",
+        "content": "A fresh floral fragrance reminiscent of jasmine with green nuances.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 1402,
+        "name": "Hindinol",
+        "content": "Sandalwood, woody, milky, creamy, natural.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1407,
+        "name": "Indole",
+        "content": "in pure form indole smells like mothballs, camphor green and intense; in white flowers such as jasmine, tuberose and orange blossom it adds a deep animalic, slightly fecal tonality",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 1409,
+        "name": "Ink",
+        "content": "A fantasy note that is reminiscent of India ink. Ink notes are also surfacing from natural materials such as oakmoss.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1413,
+        "name": "Iso E Super",
+        "content": "a synthetic woody cozy ambery musky note.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1417,
+        "name": "Javanol",
+        "content": "A synthetic sandalwood fragrance.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1422,
+        "name": "Lava",
+        "content": "A fantasy note of hot fiery lava.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1428,
+        "name": "Lorenox",
+        "content": "a complex accord developed by Mane which can be described as woody, ambery, leathery, aromatic.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1429,
+        "name": "Magnolan",
+        "content": "A Symrise molecule with a scent of natural magnolia (hints of citrus, lily of the valley, floral dewy freshness).",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 1433,
+        "name": "Metallic Notes",
+        "content": "An artificial fresh fragrance.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 1442,
+        "name": "Mugane",
+        "content": "A captive floral molecule by MANE.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 1454,
+        "name": "Osmasylk Natsublim™",
+        "content": "Spicy aroma with a touch of clean skin, developed exclusively by AVON.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1457,
+        "name": "Para-Cresyl Phenyl Acetate",
+        "content": "Para-Cresyl Phenyl Acetate is a resemblance to sweet narcotic floral bouquet consisted of rose, narcissus, ylang-ylang, lily, hyacinth, narcissus, tuberose, lily-of-the-valley and so on. It also has  a urine, medicinal, phenolic and honey like scent.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 1475,
+        "name": "Pollen",
+        "content": "A sweet powdery honey-like floral fragrance.",
+        "line": {
+            "id": 12,
+            "name": "Floral",
+            "content": "화려하고 여성스러운 향",
+            "color": "FF80C1"
+        }
+    },
+    {
+        "id": 1476,
+        "name": "Pomarose",
+        "content": "A Givaudan captive material with a powerful rose fruity smell.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1477,
+        "name": "Porcelain",
+        "content": "Cold odor, slightly reminiscent of damp plaster.",
+        "line": {
+            "id": 14,
+            "name": "Powdery",
+            "content": "포근한 향",
+            "color": "FFFFFF"
+        }
+    },
+    {
+        "id": 1478,
+        "name": "Powdery Notes",
+        "content": "A vast variety of natural and synthetic notes give a powdery effect to perfume composition. Most usual powder notes are iris/orris, violet, vanilla, rose, musks, heliotrope, opoponax resin, and some amber materials.",
+        "line": {
+            "id": 14,
+            "name": "Powdery",
+            "content": "포근한 향",
+            "color": "FFFFFF"
+        }
+    },
+    {
+        "id": 1481,
+        "name": "Prunol",
+        "content": "Synthetic molecule that refers to the odor of a plum with tangy and finally oily aspects.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1486,
+        "name": "River Notes",
+        "content": "Natural smell of green touches, spicy with earthy nuances and reminiscent of fresh clay.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    },
+    {
+        "id": 1489,
+        "name": "Salt",
+        "content": "A savory note that can render interesting a marine, woody or -more intriguingly- a gourmand composition.",
+        "line": {
+            "id": 9,
+            "name": "Gourmand",
+            "content": "달달하고 유혹적인 미각의 즐거움을 느낄 수 있는 향",
+            "color": "A1522C"
+        }
+    },
+    {
+        "id": 1494,
+        "name": "Sclarene",
+        "content": "Sclarene brings a strong dry woody note with camphor and warm metallic undertones. It can be used in small quantity with musky and ambery notes such as Ambrofix to bring warm and metallic facets. Sclarene is also often considered as a musk booster as it shows interesting musky facets with good substantivity and fixative properties without being musky. Sclarene is commonly used at low dosages below 1% but can be overdosed to bring very unique signature to the fragrance.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1495,
+        "name": "Sea Water",
+        "content": "A fresh salty fragrance of the sea.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 1496,
+        "name": "Serenolide",
+        "content": "Skin odor, clean musk.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1501,
+        "name": "Siren",
+        "content": "Saline, indole and gustatory odor.",
+        "line": {
+            "id": 7,
+            "name": "Aquatic",
+            "content": "들과 바다 시원함이 가득한 향",
+            "color": "56D2FF"
+        }
+    },
+    {
+        "id": 1503,
+        "name": "Slate",
+        "content": "Fantasy note that is dry and modern.",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1504,
+        "name": "Smoke",
+        "content": "Different ingredients can produce a smoky effect (birch tar, different incenses).",
+        "line": {
+            "id": 10,
+            "name": "Woody",
+            "content": "고상하고 증후한 느낌의 따뜻하고 부드러운 향",
+            "color": "86390F"
+        }
+    },
+    {
+        "id": 1508,
+        "name": "Solar Notes",
+        "content": "An uplifting sparkling note of different sources.",
+        "line": {
+            "id": 4,
+            "name": "Citrus",
+            "content": "과일 같은 상큼한 향",
+            "color": "FFE043"
+        }
+    },
+    {
+        "id": 1510,
+        "name": "Spiranol",
+        "content": "Firmenich molecule Spiranol has camphoreous, woody, green, cooling minty, earthy and tropical scent.",
+        "line": {
+            "id": 5,
+            "name": "Green",
+            "content": "상쾌하고 신선한 향",
+            "color": "62D66A"
+        }
+    },
+    {
+        "id": 1515,
+        "name": "Suederal®",
+        "content": "Leather, Suede, Strong.",
+        "line": {
+            "id": 15,
+            "name": "Tobacco Leather",
+            "content": "마초적인 남성의 개성이 강한 매력적인 향",
+            "color": "000000"
+        }
+    },
+    {
+        "id": 1528,
+        "name": "Tonalide®",
+        "content": "Musky. Berries. Earthy.\r\nIt is one of the most expensive musk.",
+        "line": {
+            "id": 13,
+            "name": "Musk",
+            "content": "이성에게 어필 가능한 아름다운 향",
+            "color": "F8E4FF"
+        }
+    },
+    {
+        "id": 1537,
+        "name": "Verdox",
+        "content": "Created in 1991 by IFF, Verdox ™ is a synthetic raw material which is often used to deliver an apple note to perfumes. The molecule also develops an intense woody facet. Verdox ™ is used in woody, coniferous, fruity-apple and fruity tea notes.",
+        "line": {
+            "id": 3,
+            "name": "Fruity",
+            "content": "달콤하고 귀여운 향",
+            "color": "FFBD43"
+        }
+    },
+    {
+        "id": 1539,
+        "name": "Vinyl Guaiacol",
+        "content": "Provide the smell of vanilla-cloves accord, sweet balsamic and smokey, spicy, powdery carnation accord.",
+        "line": {
+            "id": 1,
+            "name": "Spicy",
+            "content": "자극적이며 섹시한 향",
+            "color": "FF5757"
+        }
+    }
+]
