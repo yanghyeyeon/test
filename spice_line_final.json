@@ -6,82 +6,16 @@
         "description": "자극적이며 섹시한 향",
         "notes": [
             {
-                "id": 291,
-                "name": "Chamomile",
-                "name_kr": "캐모마일",
-                "description": "아로마틱한 허브 향으로 그린과 스파이시한 뉘앙스가 있음"
-            },
-            {
-                "id": 299,
-                "name": "Chrysanthemum",
-                "name_kr": "국화",
-                "description": "허브같고 약간 머스티한 노트와 그린, 스파이시한 면이 있음"
-            },
-            {
-                "id": 374,
-                "name": "Hyssop",
-                "name_kr": "히솝",
-                "description": "따뜻한 아로마틱하고 날카로운 캄포러스 향"
-            },
-            {
-                "id": 418,
-                "name": "Malva",
-                "name_kr": "말바",
-                "description": "장미향, 아로마틱, 스파이시, 그린"
-            },
-            {
-                "id": 434,
-                "name": "Myrtle",
-                "name_kr": "머틀",
-                "description": "허브의 캄포러스향과 달콤하고 신선한 아로마틱한 뉘앙스"
-            },
-            {
-                "id": 437,
-                "name": "Nasturtium",
-                "name_kr": "나스터튬",
-                "description": "달콤한 그린과 스파이시한 플로럴 노트"
-            },
-            {
-                "id": 509,
-                "name": "Siberian Rhododendron",
-                "name_kr": "시베리안 로도덴드론",
-                "description": "앰버 언더톤이 있는 헤스페리딕 플로럴과 아로마틱 스파이시"
-            },
-            {
-                "id": 549,
-                "name": "Wisteria",
-                "name_kr": "위스테리아",
-                "description": "라일락과 클로브의 뉘앑스가 있는 스파이시한 플로럴 노트"
-            },
-            {
-                "id": 587,
-                "name": "Angelica",
-                "name_kr": "안젤리카",
-                "description": "머스키하고 우디한 달콤한 뿌리 향"
-            },
-            {
                 "id": 618,
                 "name": "Calamus",
                 "name_kr": "창포",
                 "description": "따뜻한 스파이시 우디 노트와 달콤한 언더톤"
             },
             {
-                "id": 640,
-                "name": "Crithmum",
-                "name_kr": "크리스멈",
-                "description": "따뜻한 스파이시한 아로마틱 향"
-            },
-            {
                 "id": 696,
                 "name": "Marjoram",
                 "name_kr": "마저럼",
                 "description": "스파이시하고 허브의 드라이한 아로마틱 향"
-            },
-            {
-                "id": 719,
-                "name": "Pennyroyal",
-                "name_kr": "페니로얄",
-                "description": "스파이시하고 허브의 아로마틱한 향"
             },
             {
                 "id": 791,
@@ -93,7 +27,7 @@
                 "id": 792,
                 "name": "Asafoetida",
                 "name_kr": "아사페티다",
-                "description": "파와 양파 사이의 향이 나는 페룰라 허브의 건조 올레오레진"
+                "description": "부추와 양파 사이의 향이 나는 페룰라 허브의 건조 농축액"
             },
             {
                 "id": 796,
@@ -142,12 +76,6 @@
                 "name": "Curry Tree",
                 "name_kr": "커리나무",
                 "description": "인도 반도에서 자라는 나무의 잎과 씨앗을 연상시키는 스파이시한 아로마틱 향"
-            },
-            {
-                "id": 814,
-                "name": "Dill",
-                "name_kr": "딜",
-                "description": "아네톨이 풍부한 허브로 섬세한 허브향과 약간의 스파이시한 향"
             },
             {
                 "id": 816,
@@ -213,7 +141,7 @@
                 "id": 844,
                 "name": "Spiked Pepper",
                 "name_kr": "스파이크드 페퍼",
-                "description": "푸제르 그린 아로마가 있으며, 으깨면 스파이시하고 기름진 뉘앑스가 남"
+                "description": "푸제르 그린 아로마가 있으며, 으깨면 스파이시하고 기름진 뉘앙스가 남"
             },
             {
                 "id": 845,
@@ -228,40 +156,64 @@
                 "description": "스파이시하고 신선하며, 공기같고, 약간 짭짤하며, 자몽을 연상시키는 향"
             },
             {
-                "id": 1106,
-                "name": "Siam",
-                "name_kr": "시암",
-                "description": "작은 노란 꽃이 피는 시암 카시아 나무에서 나는 특별한 허브향, 쓴맛이 나는 향"
-            },
-            {
-                "id": 1132,
-                "name": "Bisabolene",
-                "name_kr": "비사볼렌",
-                "description": "오포파낙스와 오리엔탈 계열의 향수에서 볼 수 있는 따뜻하고 달콤한 스파이시-발삼향"
-            },
-            {
-                "id": 1252,
-                "name": "Génépi",
-                "name_kr": "제네피",
-                "description": "아로마틱하고 부드러운 허브 리큐어향"
-            },
-            {
                 "id": 1270,
                 "name": "Masala Chai",
                 "name_kr": "마살라 차이",
                 "description": "달콤하고 스파이시한 차 블렌드의 변형으로 진정되고 편안한 향"
             },
             {
-                "id": 1307,
-                "name": "Pepperwood™",
-                "name_kr": "페퍼우드",
-                "description": "스파이시하고 후추같은, 프리지아, 장미, 발삼향이 나는 향"
-            },
-            {
                 "id": 1392,
                 "name": "Gunpowder",
                 "name_kr": "흑색화약",
                 "description": "후추, 유황, 화약/폭죽 면이 있는 환상 노트"
+            },
+            {
+                "id": 838,
+                "name": "Saffron",
+                "name_kr": "사프란",
+                "description": "쓴 달콤하고 가죽 향이 나는 부드럽고 은은한 향"
+            },
+            {
+                "id": 795,
+                "name": "Cacao Pod",
+                "name_kr": "카카오 꼬투리",
+                "description": "따뜻한 스파이시 구르망 향과 앰버, 발삼의 뉘앙스"
+            },
+            {
+                "id": 619,
+                "name": "Calycanthus",
+                "name_kr": "캘리칸서스",
+                "description": "품종에 따라 버건디 와인이나 과일(자몽과 딸기) 향이 나는 향신료 관목"
+            },
+            {
+                "id": 628,
+                "name": "Celery Seeds",
+                "name_kr": "샐러리 씨앗",
+                "description": "샐러리 향이 나는 씨앗, 따뜻하고 흙냄새가 나지만 덜 그린하고 덜 신선함"
+            },
+            {
+                "id": 719,
+                "name": "Pennyroyal",
+                "name_kr": "페니로얄",
+                "description": "스파이시하고 허브의 아로마틱한 향"
+            },
+            {
+                "id": 737,
+                "name": "Rue",
+                "name_kr": "루타",
+                "description": "달콤한 과일 언더톤이 있는 날카로운 허브 향"
+            },
+            {
+                "id": 814,
+                "name": "Dill",
+                "name_kr": "딜",
+                "description": "아네톨이 풍부한 허브로 섬세한 허브향과 약간의 스파이시한 향"
+            },
+            {
+                "id": 825,
+                "name": "Licorice",
+                "name_kr": "민감초",
+                "description": "달콤하고 부드러운 스파이시 아니스 향"
             }
         ]
     },
@@ -270,104 +222,7 @@
         "name": "Chypre",
         "name_kr": "시프레",
         "description": "격조있고 성숙한 느낌의 개성있는 향",
-        "notes": [
-            {
-                "id": 106,
-                "name": "Currant Leaf and Bud",
-                "name_kr": "커런트 잎과 봉오리",
-                "description": "블랙커런트의 잎과 봉오리는 '고양이 오줌'을 연상시키는 특징적인 그린 & 암모니아 향"
-            },
-            {
-                "id": 107,
-                "name": "Cyperus Scariosus",
-                "name_kr": "사이프러스 스카리오서스",
-                "description": "베티버, 시더, 파출리의 면모가 있는 인도의 우디향"
-            },
-            {
-                "id": 190,
-                "name": "Pomegranate",
-                "name_kr": "석류",
-                "description": "판타지 과일향, 달콤쌉싸름하고, 스파이시하며 가죽향이 있음"
-            },
-            {
-                "id": 638,
-                "name": "Coleus",
-                "name_kr": "콜레우스",
-                "description": "흙냄새가 나고 우디하며 스모키하고 아로마틱한 점토 향"
-            },
-            {
-                "id": 641,
-                "name": "Davana",
-                "name_kr": "다바나",
-                "description": "발삼 언더톤이 있는 날카로운 허브의 쓴 그린 노트"
-            },
-            {
-                "id": 646,
-                "name": "Fern",
-                "name_kr": "고사리",
-                "description": "그늘진 숲의 식물을 연상시키는 판타지 노트"
-            },
-            {
-                "id": 676,
-                "name": "Jatamansi or Spikenard",
-                "name_kr": "자타만시 또는 스파이크나드",
-                "description": "흙냄새가 나는 아로마틱한 허브 향"
-            },
-            {
-                "id": 686,
-                "name": "Laurissilva Forest",
-                "name_kr": "조엽수림",
-                "description": "마데이라, 아조레스, 카나리아 제도, 카보베르데 군도로 이루어진 마카로네시아 지역 특유의 매우 습한 숲의 향"
-            },
-            {
-                "id": 709,
-                "name": "Olive Leaf",
-                "name_kr": "올리브 잎",
-                "description": "쓴맛이 나는 그린 향으로 점성이 있고 스모키함"
-            },
-            {
-                "id": 787,
-                "name": "Wormwood",
-                "name_kr": "쑥",
-                "description": "압생트와 베르무트를 향료화하는 쓰고 허브향이 강한 식물 향"
-            },
-            {
-                "id": 1063,
-                "name": "Lichen",
-                "name_kr": "지의류",
-                "description": "오크모스와 같은 향"
-            },
-            {
-                "id": 1118,
-                "name": "Vetiver",
-                "name_kr": "베티버",
-                "description": "세계 각지의 베티버는 매우 다양함. 아이티산은 깨끗하고 공기같으며, 자바산은 스모키하고 더스티함. 일반적으로는 흙냄새가 나는 우디하고 그린한 향"
-            },
-            {
-                "id": 1149,
-                "name": "Labdanum",
-                "name_kr": "라브다눔",
-                "description": "깊고 강렬한, 가죽과 앰버 느낌의 향"
-            },
-            {
-                "id": 1347,
-                "name": "Clay",
-                "name_kr": "점토",
-                "description": "테라코타 타일과 진흙 같은 흙냄새를 연상시키는 노트"
-            },
-            {
-                "id": 1370,
-                "name": "Earth Tincture",
-                "name_kr": "어스 팅크처",
-                "description": "정원이나 흙먼지 같은 흙냄새를 표현하기 위해 조향사들이 사용하는 에센스"
-            },
-            {
-                "id": 1388,
-                "name": "Geosmin",
-                "name_kr": "지오스민",
-                "description": "비온 뒤의 땅 냄새를 나타내는 합성 노트로, 인간이 쉽게 감지하고 좋아하는 향"
-            }
-        ]
+        "notes": []
     },
     {
         "id": 3,
@@ -376,22 +231,10 @@
         "description": "달콤하고 귀여운 향",
         "notes": [
             {
-                "id": 113,
-                "name": "Dried Fruits",
-                "name_kr": "건조 과일",
-                "description": "대추, 무화과, 말린 살구 껍질과 감초 같은 달콤하고 끈적한 과일을 연상시키는 노트"
-            },
-            {
                 "id": 116,
                 "name": "Feijoa Fruit",
                 "name_kr": "파인애플구아바",
                 "description": "기분 좋은, 아로마틱하고 달콤한 향"
-            },
-            {
-                "id": 117,
-                "name": "Fig",
-                "name_kr": "무화과",
-                "description": "과일은 매우 달콤하고 허니드, 플로럴, 구르망"
             },
             {
                 "id": 119,
@@ -568,60 +411,6 @@
                 "description": "레이니어 체리로 알려진 품종, 달콤하고 크림-노란색 과육"
             },
             {
-                "id": 579,
-                "name": "Tiare Flower",
-                "name_kr": "티아레 플라워",
-                "description": "크리미하고 과일향이 나며 인돌릭한 화이트 플로럴 노트"
-            },
-            {
-                "id": 619,
-                "name": "Calycanthus",
-                "name_kr": "캘리칸서스",
-                "description": "품종에 따라 버건디 와인이나 과일(자몽과 딸기) 향이 나는 향신료 관목"
-            },
-            {
-                "id": 680,
-                "name": "Katsura Leaf",
-                "name_kr": "카츠라 잎",
-                "description": "가을에 죽어가는 잎에서 말톨로 인해 달콤한 카라멜 같은 향이 남"
-            },
-            {
-                "id": 881,
-                "name": "Candies",
-                "name_kr": "사탕",
-                "description": "다양한 과일과 향으로 된 설탕과 하드캔디를 연상시키는 판타지 노트"
-            },
-            {
-                "id": 909,
-                "name": "Dates",
-                "name_kr": "대추야자",
-                "description": "달콤한 과일 같은 설탕 향"
-            },
-            {
-                "id": 914,
-                "name": "French Pastries",
-                "name_kr": "프렌치 페이스트리",
-                "description": "크림과 과일이 들어간 달콤한 디저트의 판타지 향"
-            },
-            {
-                "id": 976,
-                "name": "Strawberry Syrup",
-                "name_kr": "딸기 시럽",
-                "description": "달콤한 프루티 향"
-            },
-            {
-                "id": 1046,
-                "name": "Eucalyptus",
-                "name_kr": "유칼립투스",
-                "description": "캠퍼러스한 아로마틱 우디 향에 프루티한 뉘앑스가 있는 향"
-            },
-            {
-                "id": 1076,
-                "name": "Nootka",
-                "name_kr": "눗카",
-                "description": "우디하고 아로마틱하며 자몽 향의 뉘앑스가 있는 향"
-            },
-            {
                 "id": 1089,
                 "name": "Pear Tree",
                 "name_kr": "배나무",
@@ -646,28 +435,22 @@
                 "description": "프랑스 노르망디 지방의 증류주로, 사과로 만든 사이다를 발효하고 증류한 음료의 향"
             },
             {
-                "id": 1476,
-                "name": "Pomarose",
-                "name_kr": "포마로즈",
-                "description": "강력한 장미 프루티 향이 나는 지보당의 독점 소재"
-            },
-            {
                 "id": 1481,
                 "name": "Prunol",
                 "name_kr": "프루놀",
                 "description": "자두의 새콤달콤한 향과 마지막의 기름진 향이 나는 합성 분자"
             },
             {
-                "id": 1537,
-                "name": "Verdox",
-                "name_kr": "베르독스",
-                "description": "사과 노트를 전달하기 위해 자주 사용되는 합성 원료. 강렬한 우디 면도 있음"
+                "id": 190,
+                "name": "Pomegranate",
+                "name_kr": "석류",
+                "description": "판타지 과일향, 달콤쌉싸름하고, 스파이시하며 가죽향이 있음"
             },
             {
-                "id": 1318,
-                "name": "Amyl Salicylate",
-                "name_kr": "아밀 살리실레이트",
-                "description": "덜 익은 바나나를 연상시키는 신선한 프루티 플로럴 그린 향"
+                "id": 1304,
+                "name": "White Wine",
+                "name_kr": "화이트 와인",
+                "description": "화이트 와인을 연상시키는 프루티한 노트"
             }
         ]
     },
@@ -714,78 +497,6 @@
                 "description": "밝은 드라이한 시트러스 노트"
             },
             {
-                "id": 184,
-                "name": "Pineapple",
-                "name_kr": "파인애플",
-                "description": "신선하고 즙이 많은 과일향, 신선하고 약간 메탈릭함"
-            },
-            {
-                "id": 187,
-                "name": "Pitahaya",
-                "name_kr": "용과",
-                "description": "드래곤 프루트로 알려진 선인장 과일"
-            },
-            {
-                "id": 189,
-                "name": "Plum",
-                "name_kr": "자두",
-                "description": "관능적인 과일 향"
-            },
-            {
-                "id": 198,
-                "name": "Red Apple",
-                "name_kr": "레드 애플",
-                "description": "신선하고 달콤한 합성 과일향"
-            },
-            {
-                "id": 200,
-                "name": "Red Currant",
-                "name_kr": "레드 커런트",
-                "description": "시큼하고 아로마틱한 과일향"
-            },
-            {
-                "id": 219,
-                "name": "Strawberry",
-                "name_kr": "딸기",
-                "description": "달콤한 과일향, 인공적이거나 다른 재료들로 구성됨"
-            },
-            {
-                "id": 221,
-                "name": "Tayberry",
-                "name_kr": "테이베리",
-                "description": "블랙베리와 레드 라즈베리의 교배종"
-            },
-            {
-                "id": 223,
-                "name": "Tropical Fruits",
-                "name_kr": "열대과일",
-                "description": "달콤하고 풍부한 열대과일의 일반적인 향"
-            },
-            {
-                "id": 229,
-                "name": "Watermelon",
-                "name_kr": "수박",
-                "description": "매우 신선한 노트"
-            },
-            {
-                "id": 231,
-                "name": "White Currant",
-                "name_kr": "백색방수구리",
-                "description": "레드 커런트보다 더 달콤한 맛의 반투명한 베리"
-            },
-            {
-                "id": 233,
-                "name": "Wild Strawberry",
-                "name_kr": "야생딸기",
-                "description": "풍부한 숲의 달콤한 과일 향"
-            },
-            {
-                "id": 237,
-                "name": "Yellow Cherry",
-                "name_kr": "옐로우 체리",
-                "description": "레이니어 체리로 알려진 품종, 달콤하고 크림-노란색 과육"
-            },
-            {
                 "id": 13,
                 "name": "Clementine",
                 "name_kr": "클레멘타인",
@@ -816,22 +527,10 @@
                 "description": "떫은맛, 신맛, 달콤한 언더톤, 아로마틱한 뉘앙스"
             },
             {
-                "id": 24,
-                "name": "Lemon Balm",
-                "name_kr": "레몬 밤",
-                "description": "민티한, 약간 스파이시한 면모"
-            },
-            {
                 "id": 27,
                 "name": "Lemon Verbena",
                 "name_kr": "레몬 버베나",
                 "description": "레몬-프레시한, 깨끗한, 플로럴-시트러스"
-            },
-            {
-                "id": 29,
-                "name": "Lemongrass",
-                "name_kr": "레몬그라스",
-                "description": "강렬한 레몬향의 아로마틱 허브, 스파이시한 아로마틱 언더톤"
             },
             {
                 "id": 31,
@@ -844,194 +543,6 @@
                 "name": "Mandora",
                 "name_kr": "만도라",
                 "description": "달콤한 아로마틱 시트러스 노트"
-            },
-            {
-                "id": 36,
-                "name": "Neroli",
-                "name_kr": "네롤리",
-                "description": "시트러스향, 가볍고 약간 쓴 노트, 오렌지와 허니 블라섬 플로럴"
-            },
-            {
-                "id": 37,
-                "name": "Orange",
-                "name_kr": "오렌지",
-                "description": "달콤한 시트러스향, 만다린과 폼멜로의 중간"
-            },
-            {
-                "id": 38,
-                "name": "Palestinian Sweet Lime",
-                "name_kr": "팔레스타인 스위트 라임",
-                "description": "산도가 낮은 라임"
-            },
-            {
-                "id": 42,
-                "name": "Rangpur",
-                "name_kr": "랑푸르",
-                "description": "풍부한 즙, 매우 산성이며, 맛있고 비타민 C가 풍부"
-            },
-            {
-                "id": 45,
-                "name": "Sudachi citrus",
-                "name_kr": "스다치",
-                "description": "시트러스 향"
-            },
-            {
-                "id": 46,
-                "name": "Tangelo",
-                "name_kr": "탄제린",
-                "description": "만다린을 연상시키지만 덜 드라이한 달콤한 시트러스 향"
-            },
-            {
-                "id": 47,
-                "name": "Tangerine",
-                "name_kr": "탄제린",
-                "description": "허니 뉘앙스가 있는 달콤한 헤스페리딕 향"
-            },
-            {
-                "id": 49,
-                "name": "Yuzu",
-                "name_kr": "유자",
-                "description": "달콤하고 매우 쓴, 독특한 시트러스 향에 테르펜 뉘앙스"
-            },
-            {
-                "id": 691,
-                "name": "Linaloe Berry",
-                "name_kr": "리날로에 베리",
-                "description": "가벼운 아로마틱 시트러스 향"
-            },
-            {
-                "id": 762,
-                "name": "Tangerine Leaves",
-                "name_kr": "탠저린 잎",
-                "description": "그린하고 기름진, 폭발적이며 흙냄새가 나는 시트러스 향"
-            },
-            {
-                "id": 842,
-                "name": "Sichuan Pepper",
-                "name_kr": "사천 후추",
-                "description": "시트러스 터치가 있는 아로마틱하고 허브하며 스파이시한 향"
-            },
-            {
-                "id": 848,
-                "name": "Timur",
-                "name_kr": "티무르",
-                "description": "자몽을 연상시키는 스파이시하고 신선하며, 공기같고, 약간 짭짤한 향"
-            },
-            {
-                "id": 1052,
-                "name": "Hinoki Wood",
-                "name_kr": "편백나무",
-                "description": "일본에서 귀하게 여기는 사이프러스 종류. 상록수 향에 레몬 느낌이 있음"
-            },
-            {
-                "id": 1081,
-                "name": "Palo Santo",
-                "name_kr": "부르세라 그레이벨런즈",
-                "description": "신선한 시트러스 터치가 있는 우디 노트"
-            },
-            {
-                "id": 1262,
-                "name": "Lemonade",
-                "name_kr": "레모네이드",
-                "description": "고전적인 새콤한 레몬과 과일 같은 달콤함이 있는 상쾌한 노트로 향수에서 갈증해소 느낌을 줌"
-            },
-            {
-                "id": 1263,
-                "name": "Limoncello",
-                "name_kr": "리몬첼로",
-                "description": "강렬한 레몬, 달콤쌉싸름한 환상 노트로 구르망이나 모던 오리엔탈에 상큼한 오프닝을 주기에 완벽함"
-            },
-            {
-                "id": 1274,
-                "name": "Mojito",
-                "name_kr": "모히토",
-                "description": "모히토(라임, 민트)를 연상시키는 신선한 환상 노트"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Green",
-        "name_kr": "그린",
-        "description": "상쾌하고 신선한 향",
-        "notes": [
-            {
-                "id": 81,
-                "name": "Carrot",
-                "name_kr": "당근",
-                "description": "파우더리한 얼씨 노트(당근씨)"
-            },
-            {
-                "id": 104,
-                "name": "Cucumber",
-                "name_kr": "오이",
-                "description": "신선하고 수분이 많은 그린 아로마"
-            },
-            {
-                "id": 13,
-                "name": "Clementine",
-                "name_kr": "클레멘타인",
-                "description": "씨가 없는 만다린 오렌지의 한 종류, 달콤하고 즙이 많음"
-            },
-            {
-                "id": 14,
-                "name": "Finger Lime",
-                "name_kr": "핑거 라임",
-                "description": "신선하고 달콤한, 깨끗한 시트러스 향에 발사믹 쿠마린 언더톤"
-            },
-            {
-                "id": 15,
-                "name": "Grapefruit",
-                "name_kr": "자몽",
-                "description": "쓴 아로마틱 시트러스 향과 '더티한' 언더톤"
-            },
-            {
-                "id": 19,
-                "name": "Hassaku",
-                "name_kr": "하사쿠 오렌지",
-                "description": "일본 시트러스 변종, 만다린 오렌지와 비슷한 향 프로필"
-            },
-            {
-                "id": 23,
-                "name": "Lemon",
-                "name_kr": "레몬",
-                "description": "떫은맛, 신맛, 달콤한 언더톤, 아로마틱한 뉘앙스"
-            },
-            {
-                "id": 24,
-                "name": "Lemon Balm",
-                "name_kr": "레몬 밤",
-                "description": "민티한, 약간 스파이시한 면모"
-            },
-            {
-                "id": 27,
-                "name": "Lemon Verbena",
-                "name_kr": "레몬 버베나",
-                "description": "레몬-프레시한, 깨끗한, 플로럴-시트러스"
-            },
-            {
-                "id": 29,
-                "name": "Lemongrass",
-                "name_kr": "레몬그라스",
-                "description": "강렬한 레몬향의 아로마틱 허브, 스파이시한 아로마틱 언더톤"
-            },
-            {
-                "id": 31,
-                "name": "Limetta",
-                "name_kr": "리메타",
-                "description": "섬세한 시트러스 향, 라임과 비슷하지만 덜 산성이고 약간 달콤함"
-            },
-            {
-                "id": 34,
-                "name": "Mandora",
-                "name_kr": "만도라",
-                "description": "달콤한 아로마틱 시트러스 노트"
-            },
-            {
-                "id": 36,
-                "name": "Neroli",
-                "name_kr": "네롤리",
-                "description": "시트러스향, 가볍고 약간 쓴 노트, 오렌지와 허니 블라섬 플로럴"
             },
             {
                 "id": 37,
@@ -1076,6 +587,44 @@
                 "description": "달콤하고 매우 쓴, 독특한 시트러스 향에 테르펜 뉘앙스"
             },
             {
+                "id": 1262,
+                "name": "Lemonade",
+                "name_kr": "레모네이드",
+                "description": "고전적인 새콤한 레몬과 과일 같은 달콤함이 있는 상쾌한 노트로 향수에서 갈증해소 느낌을 줌"
+            },
+            {
+                "id": 1263,
+                "name": "Limoncello",
+                "name_kr": "리몬첼로",
+                "description": "강렬한 레몬, 달콤쌉싸름한 환상 노트로 구르망이나 모던 오리엔탈에 상큼한 오프닝을 주기에 완벽함"
+            },
+            {
+                "id": 1274,
+                "name": "Mojito",
+                "name_kr": "모히토",
+                "description": "모히토(라임, 민트)를 연상시키는 신선한 환상 노트"
+            },
+            {
+                "id": 35,
+                "name": "Methyl Pamplemousse",
+                "name_kr": "메틸 팜플무스",
+                "description": "신선한 허브, 그린 프루티; 시트러스향, 비누향, 우디, 그린, 허브, 플로럴, 바이올렛"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Green",
+        "name_kr": "그린",
+        "description": "상쾌하고 신선한 향",
+        "notes": [
+            {
+                "id": 104,
+                "name": "Cucumber",
+                "name_kr": "오이",
+                "description": "신선하고 수분이 많은 그린 아로마"
+            },
+            {
                 "id": 106,
                 "name": "Currant Leaf and Bud",
                 "name_kr": "커런트 잎과 봉오리",
@@ -1100,12 +649,6 @@
                 "description": "그린하고 너티한 짭짤한 향"
             },
             {
-                "id": 204,
-                "name": "Rhubarb",
-                "name_kr": "루바브",
-                "description": "달콤쌉싸름하고, 그린하며 입맛을 돋우는, 채소같은 스파이시한 과일향"
-            },
-            {
                 "id": 222,
                 "name": "Tomato",
                 "name_kr": "토마토",
@@ -1116,6 +659,12 @@
                 "name": "Clover",
                 "name_kr": "클로버",
                 "description": "달콤한 허니 플로럴과 그린 노트"
+            },
+            {
+                "id": 374,
+                "name": "Hyssop",
+                "name_kr": "히솝",
+                "description": "따뜻한 아로마틱하고 날카로운 캄포러스 향"
             },
             {
                 "id": 416,
@@ -1142,46 +691,10 @@
                 "description": "그린하고 수액같은 신선한 향"
             },
             {
-                "id": 612,
-                "name": "Buchu or Agathosma",
-                "name_kr": "부추 또는 아가토스마",
-                "description": "특이한 침투력있는 쓴달콤한 캠퍼, 페놀릭한 향"
-            },
-            {
-                "id": 615,
-                "name": "Bulrush",
-                "name_kr": "부들",
-                "description": "특이한 허브의 그린 아쿠아틱 향, 향수에서는 매우 드물게 사용"
-            },
-            {
                 "id": 627,
                 "name": "Celery",
                 "name_kr": "샐러리",
                 "description": "친숙한 샐러리 향이지만 덜 그린하고 덜 신선함"
-            },
-            {
-                "id": 628,
-                "name": "Celery Seeds",
-                "name_kr": "샐러리 씨앗",
-                "description": "샐러리 향이 나는 씨앗, 따뜻하고 흙냄새가 나지만 덜 그린하고 덜 신선함"
-            },
-            {
-                "id": 641,
-                "name": "Davana",
-                "name_kr": "다바나",
-                "description": "날카로운 허브의 쓴 그린 노트와 발삼 언더톤"
-            },
-            {
-                "id": 646,
-                "name": "Fern",
-                "name_kr": "고사리",
-                "description": "그늘진 숲의 식물을 연상시키는 판타지 노트"
-            },
-            {
-                "id": 647,
-                "name": "Flouve",
-                "name_kr": "향기풀",
-                "description": "프랑스 원산의 허브로 쓴달콤하고 복잡하며 매력적인 향"
             },
             {
                 "id": 659,
@@ -1194,12 +707,6 @@
                 "name": "Green Notes",
                 "name_kr": "그린 노트",
                 "description": "잘린 잎, 잎사귀, 초록빛 식물성 향을 연상시키는 일반적인 용어"
-            },
-            {
-                "id": 668,
-                "name": "Hat Straw",
-                "name_kr": "밀짚모자",
-                "description": "밀짚모자의 판타지 향"
             },
             {
                 "id": 701,
@@ -1226,12 +733,6 @@
                 "description": "식물성의 그린 향"
             },
             {
-                "id": 714,
-                "name": "Palmarosa",
-                "name_kr": "팔마로사",
-                "description": "식물성 뉘앙스가 있는 특이한 장미향의 부드러운 노트"
-            },
-            {
                 "id": 718,
                 "name": "Pear Leaf",
                 "name_kr": "배나무 잎",
@@ -1244,22 +745,10 @@
                 "description": "판타지 그린 노트"
             },
             {
-                "id": 731,
-                "name": "Rooibos Red Tea",
-                "name_kr": "루이보스 레드티",
-                "description": "달콤한 허브 차 향"
-            },
-            {
                 "id": 735,
                 "name": "Rosemary",
                 "name_kr": "로즈마리",
                 "description": "캠퍼향이 나는 민트같은 아로마틱한 요리 허브 향"
-            },
-            {
-                "id": 737,
-                "name": "Rue",
-                "name_kr": "루타",
-                "description": "달콤한 과일 언더톤이 있는 날카로운 허브 향"
             },
             {
                 "id": 741,
@@ -1280,64 +769,16 @@
                 "description": "달콤함과 부드러운 스파이시함이 가미된 상쾌하고 시원한 그린 민트 향"
             },
             {
-                "id": 590,
-                "name": "Arnica",
-                "name_kr": "아니카",
-                "description": "풀 향이 나고 먼지 냄새가 나는 꽃, 약용으로 사용되는 식물"
-            },
-            {
                 "id": 1046,
                 "name": "Eucalyptus",
                 "name_kr": "유칼립투스",
                 "description": "캠퍼러스한 아로마틱 우디 향에 프루티한 뉘앑스가 있는 향"
             },
             {
-                "id": 1047,
-                "name": "Fig tree",
-                "name_kr": "무화과나무",
-                "description": "복잡한 그린 파우더리하고 실키한 노트로 과일의 우유같고 코코넛 향이 나는 수액, 잎의 어둡고 쓴 더스티한 그린, 나무 껍질과 그 아래 흙의 향을 연상시킴"
-            },
-            {
-                "id": 1048,
-                "name": "Fir",
-                "name_kr": "전나무",
-                "description": "달콤한 발삼향, 아로마틱한 그린 스파이시 향"
-            },
-            {
-                "id": 1068,
-                "name": "Manuka",
-                "name_kr": "마누카",
-                "description": "차나무와 관련있는 렙토스페르뭄 스코파리움 종"
-            },
-            {
-                "id": 1079,
-                "name": "Olive Tree",
-                "name_kr": "올리브 나무",
-                "description": "짭짤한 우디 그린 향의 환상 노트"
-            },
-            {
                 "id": 1146,
                 "name": "Estoraque",
                 "name_kr": "에스토라크",
                 "description": "신선함과 가벼움이 넘치는 강렬한 허브로, 아마존에서 전통적으로 향기 목욕에 사용됨"
-            },
-            {
-                "id": 1150,
-                "name": "Mastic or Lentisque",
-                "name_kr": "마스틱/렌티스크",
-                "description": "신선한 발삼향, 테레핀 같은 향"
-            },
-            {
-                "id": 1155,
-                "name": "Olibanum (Frankincense)",
-                "name_kr": "유향(프랑킨센스)",
-                "description": "신선한 발삼향, 약간 그린하고, 우디하며 스파이시한 향에 프루티한 탑노트가 있음"
-            },
-            {
-                "id": 1160,
-                "name": "Poplar (Populus) Buds",
-                "name_kr": "포플러 버드",
-                "description": "특이한 발삼향의 그린하고 쌉싸름한 달콤함이 있는 향"
             },
             {
                 "id": 1335,
@@ -1352,10 +793,88 @@
                 "description": "캠퍼러스, 우디, 그린, 쿨링 민티, 흙냄새와 트로피칼한 향이 나는 피르메니히 분자"
             },
             {
-                "id": 1318,
-                "name": "Amyl Salicylate",
-                "name_kr": "아밀 살리실레이트",
-                "description": "덜 익은 바나나를 연상시키는 신선한 프루티 플로럴 그린 향"
+                "id": 747,
+                "name": "Senecio",
+                "name_kr": "세네시오",
+                "description": "기름지고, 그린하며, 강하고 거대한 아로마"
+            },
+            {
+                "id": 615,
+                "name": "Bulrush",
+                "name_kr": "부들",
+                "description": "특이한 허브의 그린 아쿠아틱 향, 향수에서는 매우 드물게 사용"
+            },
+            {
+                "id": 1486,
+                "name": "River Notes",
+                "name_kr": "리버 노트",
+                "description": "그린 터치, 스파이시함이 있는 흙냄새와 신선한 점토를 연상시키는 자연스러운 향"
+            },
+            {
+                "id": 434,
+                "name": "Myrtle",
+                "name_kr": "머틀",
+                "description": "허브의 캄포러스향과 달콤하고 신선한 아로마틱한 뉘앙스"
+            },
+            {
+                "id": 819,
+                "name": "Green Coffee",
+                "name_kr": "생커피",
+                "description": "약간 달콤하고 중성적인 향"
+            },
+            {
+                "id": 1252,
+                "name": "Génépi",
+                "name_kr": "제네피",
+                "description": "아로마틱하고 부드러운 허브 리큐어향"
+            },
+            {
+                "id": 638,
+                "name": "Coleus",
+                "name_kr": "콜레우스",
+                "description": "흙냄새가 나고 우디하며 스모키하고 아로마틱한 점토 향"
+            },
+            {
+                "id": 686,
+                "name": "Laurissilva Forest",
+                "name_kr": "조엽수림",
+                "description": "마데이라, 아조레스, 카나리아 제도, 카보베르데 군도로 이루어진 마카로네시아 지역 특유의 매우 습한 숲의 향"
+            },
+            {
+                "id": 787,
+                "name": "Wormwood",
+                "name_kr": "쑥",
+                "description": "압생트와 베르무트를 향료화하는 쓰고 허브향이 강한 식물 향"
+            },
+            {
+                "id": 1063,
+                "name": "Lichen",
+                "name_kr": "지의류",
+                "description": "오크모스와 같은 향"
+            },
+            {
+                "id": 680,
+                "name": "Katsura Leaf",
+                "name_kr": "카츠라 잎",
+                "description": "가을에 죽어가는 잎에서 말톨로 인해 달콤한 카라멜 같은 향이 남"
+            },
+            {
+                "id": 762,
+                "name": "Tangerine Leaves",
+                "name_kr": "탠저린 잎",
+                "description": "그린하고 기름진, 폭발적이며 흙냄새가 나는 시트러스 향"
+            },
+            {
+                "id": 1018,
+                "name": "Buxus",
+                "name_kr": "박스우드",
+                "description": "흔하지 않지만 우디 노트로 유용한 관목 향"
+            },
+            {
+                "id": 1075,
+                "name": "Neem",
+                "name_kr": "님나무",
+                "description": "아자디라크타 인디카 종의 나무에서 나는 우디 노트. 극히 희귀함"
             }
         ]
     },
@@ -1366,46 +885,10 @@
         "description": "인공 비누향, 모던하고 우아하며 지적인 향",
         "notes": [
             {
-                "id": 35,
-                "name": "Methyl Pamplemousse",
-                "name_kr": "메틸 팜플무스",
-                "description": "신선한 허브, 그린 프루티; 시트러스향, 비누향, 우디, 그린, 허브, 플로럴, 바이올렛"
-            },
-            {
-                "id": 482,
-                "name": "Privet",
-                "name_kr": "프리벳",
-                "description": "봄 향의 신선한 노트, 때로는 고양이 오줌 뉘앙스가 있음"
-            },
-            {
-                "id": 612,
-                "name": "Buchu or Agathosma",
-                "name_kr": "부추 또는 아가토스마",
-                "description": "바로스마 베툴리나의 말린 잎에서 증류한 에센셜 오일, 특이한 침투력있는 쓴달콤한 캠퍼, 페놀릭한 향"
-            },
-            {
-                "id": 747,
-                "name": "Senecio",
-                "name_kr": "세네시오",
-                "description": "기름지고, 그린하며, 강하고 거대한 아로마"
-            },
-            {
-                "id": 829,
-                "name": "Oily Notes",
-                "name_kr": "오일리 노트",
-                "description": "다양한 재료들이 주는 기름진 효과, 예를 들어 수선화"
-            },
-            {
                 "id": 1311,
                 "name": "Aldehydes",
                 "name_kr": "알데하이드",
                 "description": "추상적인 비누향, 기름진, 신선한 향으로 새 빨래와 서리를 연상시킴"
-            },
-            {
-                "id": 1377,
-                "name": "Fabric",
-                "name_kr": "섬유",
-                "description": "깨끗한 환상 노트"
             },
             {
                 "id": 1312,
@@ -1430,30 +913,6 @@
                 "name": "Metallic Notes",
                 "name_kr": "메탈릭 노트",
                 "description": "인공적인 신선한 향"
-            },
-            {
-                "id": 1503,
-                "name": "Slate",
-                "name_kr": "점판암",
-                "description": "드라이하고 모던한 환상 노트"
-            },
-            {
-                "id": 1409,
-                "name": "Ink",
-                "name_kr": "잉크",
-                "description": "인디아 잉크를 연상시키는 환상 노트. 잉크 노트는 오크모스와 같은 자연 원료에서도 나옴"
-            },
-            {
-                "id": 1422,
-                "name": "Lava",
-                "name_kr": "라바",
-                "description": "뜨겁고 불타는 용암의 환상 노트"
-            },
-            {
-                "id": 1504,
-                "name": "Smoke",
-                "name_kr": "스모크",
-                "description": "다양한 원료들이 스모키한 효과를 낼 수 있음"
             }
         ]
     },
@@ -1464,64 +923,10 @@
         "description": "들과 바다 시원함이 가득한 향",
         "notes": [
             {
-                "id": 163,
-                "name": "Melon",
-                "name_kr": "멜론",
-                "description": "신선하고 달콤한 과일의 아쿠아틱향"
-            },
-            {
-                "id": 180,
-                "name": "Pear",
-                "name_kr": "배",
-                "description": "달콤하고 신선한, 아쿠아틱한 과일향"
-            },
-            {
-                "id": 229,
-                "name": "Watermelon",
-                "name_kr": "수박",
-                "description": "매우 신선한 아쿠아틱 노트"
-            },
-            {
-                "id": 541,
-                "name": "Water Hyacinth",
-                "name_kr": "부레옥잠",
-                "description": "그린 플로럴에 아쿠아틱한 뉘앙스"
-            },
-            {
-                "id": 542,
-                "name": "Water Lily",
-                "name_kr": "워터 릴리",
-                "description": "신선하고 섬세한 부드러운 아쿠아틱 플로럴 향"
-            },
-            {
-                "id": 615,
-                "name": "Bulrush",
-                "name_kr": "부들",
-                "description": "특이한 허브의 그린 아쿠아틱 향, 향수에서는 매우 드물게 사용"
-            },
-            {
-                "id": 721,
-                "name": "Petrichor",
-                "name_kr": "페트리코",
-                "description": "비가 내리기 시작하여 지면에 닿을 때 나는 흙 향, 특히 날씨가 덥거나 건조할 때"
-            },
-            {
                 "id": 746,
                 "name": "Seaweed",
                 "name_kr": "바닷말",
                 "description": "짠맛이 나는, 바다의, 요오드, 아로마틱한 향"
-            },
-            {
-                "id": 751,
-                "name": "Siriuba Tree",
-                "name_kr": "시리우바 트리",
-                "description": "소금샘이라 불리는 특별한 구조를 가진 나무로, 우디하고 소금기 있는 향"
-            },
-            {
-                "id": 1170,
-                "name": "Ambergris",
-                "name_kr": "용연향",
-                "description": "향유고래의 장에서 생성되는 물질로 바다와 태양에 표백된 피부같은 짭짤하고 따뜻한 효과"
             },
             {
                 "id": 1209,
@@ -1565,12 +970,7 @@
                 "name_kr": "헤드스페이스 워터폴",
                 "description": "헤드스페이스 기술로 얻은 신선한 물의 향"
             },
-            {
-                "id": 1486,
-                "name": "River Notes",
-                "name_kr": "리버 노트",
-                "description": "그린 터치, 스파이시함이 있는 흙냄새와 신선한 점토를 연상시키는 자연스러운 향"
-            },
+            
             {
                 "id": 1489,
                 "name": "Salt",
@@ -1604,28 +1004,10 @@
                 "description": "아로마틱 플로럴 클린 노트, 그린, 프레시 스파이시, 리코리스 면"
             },
             {
-                "id": 434,
-                "name": "Myrtle",
-                "name_kr": "머틀",
-                "description": "허브의 캄포러스향과 달콤하고 신선한 아로마틱한 뉘앙스"
-            },
-            {
                 "id": 646,
                 "name": "Fern",
                 "name_kr": "고사리",
                 "description": "그늘진 숲의 식물을 연상시키는 판타지 노트"
-            },
-            {
-                "id": 678,
-                "name": "Juniper",
-                "name_kr": "주니퍼",
-                "description": "파인 뉘앙스가 있는 신선한 발삼향, 아로마틱한 향"
-            },
-            {
-                "id": 844,
-                "name": "Spiked Pepper",
-                "name_kr": "스파이크드 페퍼",
-                "description": "푸제르 그린 아로마가 있으며, 으깨면 스파이시하고 기름진 뉘앙스가 남"
             },
             {
                 "id": 1253,
@@ -1638,12 +1020,6 @@
                 "name": "Coumarin",
                 "name_kr": "쿠마린",
                 "description": "사용량에 따라 향이 달라짐: 건초같은 허브향이 나거나, 캐러멜화된 아몬드처럼 달콤하고 따뜻한 향이 날 수 있음"
-            },
-            {
-                "id": 1396,
-                "name": "Healingwood",
-                "name_kr": "힐링우드",
-                "description": "패출리의 깊은 우디한 면을 가지고 있지만, 더 밝고 활기찬 면이 있음"
             }
         ]
     },
@@ -1712,18 +1088,6 @@
                 "name": "Coffee",
                 "name_kr": "커피",
                 "description": "진한 로스팅된 커피 향으로 패출리의 코코아 느낌과 연결됨"
-            },
-            {
-                "id": 819,
-                "name": "Green Coffee",
-                "name_kr": "생커피",
-                "description": "약간 달콤하고 중성적인 향"
-            },
-            {
-                "id": 825,
-                "name": "Licorice",
-                "name_kr": "민감초",
-                "description": "달콤하고 부드러운 스파이시 아니스 향"
             },
             {
                 "id": 849,
@@ -1846,16 +1210,40 @@
                 "description": "달콤한 건초, 오크통, 초콜릿, 말린 과일, 꿀, 순한 스파이스 면을 포함하는 복잡한 노트"
             },
             {
-                "id": 1304,
-                "name": "White Wine",
-                "name_kr": "화이트 와인",
-                "description": "화이트 와인을 연상시키는 프루티한 노트"
-            },
-            {
                 "id": 1374,
                 "name": "Ethyl Maltol",
                 "name_kr": "에틸 말톨",
                 "description": "따뜻한-과일향의 카라멜 달콤한 잼같은 향으로 솜사탕 같은 면이 있음"
+            },
+            {
+                "id": 731,
+                "name": "Rooibos Red Tea",
+                "name_kr": "루이보스 레드티",
+                "description": "달콤한 허브 차 향"
+            },
+            {
+                "id": 881,
+                "name": "Candies",
+                "name_kr": "사탕",
+                "description": "다양한 과일과 향으로 된 설탕과 하드캔디를 연상시키는 판타지 노트"
+            },
+            {
+                "id": 909,
+                "name": "Dates",
+                "name_kr": "대추야자",
+                "description": "달콤한 과일 같은 설탕 향"
+            },
+            {
+                "id": 914,
+                "name": "French Pastries",
+                "name_kr": "프렌치 페이스트리",
+                "description": "크림과 과일이 들어간 달콤한 디저트의 판타지 향"
+            },
+            {
+                "id": 976,
+                "name": "Strawberry Syrup",
+                "name_kr": "딸기 시럽",
+                "description": "달콤한 시럽 향"
             }
         ]
     },
@@ -1870,12 +1258,6 @@
                 "name": "Cyperus Scariosus",
                 "name_kr": "사이프러스 스카리오서스",
                 "description": "베티버, 시더, 파출리의 면모가 있는 인도의 우디향"
-            },
-            {
-                "id": 318,
-                "name": "Deadnettle",
-                "name_kr": "데드네틀",
-                "description": "복잡한 우디 파인 건초 얼씨 그린 향"
             },
             {
                 "id": 505,
@@ -1930,12 +1312,6 @@
                 "name": "Buddha Wood",
                 "name_kr": "부다 우드",
                 "description": "베티버와 샌달우드 느낌이 있는 우디하고 발삼향이 나며 이끼 향이 나는 깊고 스모키한 향"
-            },
-            {
-                "id": 1018,
-                "name": "Buxus",
-                "name_kr": "박스우드",
-                "description": "흔하지 않지만 우디 노트로 유용한 관목 향"
             },
             {
                 "id": 1019,
@@ -2016,28 +1392,22 @@
                 "description": "브라킬레나 허친시 종의 나무에서 나는 우디 노트. 극히 희귀함"
             },
             {
-                "id": 1075,
-                "name": "Neem",
-                "name_kr": "님나무",
-                "description": "아자디라크타 인디카 종의 나무에서 나는 우디 노트. 극히 희귀함"
-            },
-            {
                 "id": 1076,
                 "name": "Nootka",
                 "name_kr": "눗카",
-                "description": "우디하고 아로마틱하며 자몽 향의 뉘앑스가 있는 향"
+                "description": "우디하고 아로마틱하며 자몽 향의 뉘앙스가 있는 향"
             },
             {
                 "id": 1077,
                 "name": "Oak",
                 "name_kr": "오크",
-                "description": "흙냄새 뉘앑스가 있는 아로마틱 우디 향"
+                "description": "흙냄새 뉘앙스가 있는 아로마틱 우디 향"
             },
             {
                 "id": 1080,
                 "name": "Palisander Rosewood",
                 "name_kr": "팔리산더 로즈우드",
-                "description": "아름다운 뉘앑스를 가진 여러 목재를 지칭하는 레드우드나 팔리산더는 부드럽고 달콤한 우디 향"
+                "description": "아름다운 뉘앙스를 가진 여러 목재를 지칭하는 레드우드나 팔리산더는 부드럽고 달콤한 우디 향"
             },
             {
                 "id": 1081,
@@ -2079,7 +1449,7 @@
                 "id": 1315,
                 "name": "Ambrofix™",
                 "name_kr": "앰브로픽스",
-                "description": "우디하고 신선하며, 파인과 너티한 뉘앑스가 있는 앰버리한 향"
+                "description": "우디하고 신선하며, 파인과 너티한 뉘앙스가 있는 앰버리한 향"
             },
             {
                 "id": 1328,
@@ -2106,16 +1476,130 @@
                 "description": "합성 샌달우드 향"
             },
             {
-                "id": 1409,
-                "name": "Ink",
-                "name_kr": "잉크",
-                "description": "인디아 잉크를 연상시키는 환상 노트. 잉크 노트는 오크모스와 같은 자연 원료에서도 나옴"
+                "id": 1428,
+                "name": "Lorenox",
+                "name_kr": "로레녹스",
+                "description": "우디하고 앰버리하며 레더리하고 아로마틱한 복합적인 향"
             },
             {
-                "id": 1504,
-                "name": "Smoke",
-                "name_kr": "스모크",
-                "description": "다양한 원료들이 스모키한 효과를 낼 수 있음"
+                "id": 1131,
+                "name": "Birch Tar",
+                "name_kr": "자작나무 타르",
+                "description": "가죽 향을 재현하는 자연 원료"
+            },
+            {
+                "id": 998,
+                "name": "Amyris",
+                "name_kr": "아미리스",
+                "description": "신선한 파인향의 발삼과 시트러스 뉘앙스가 있는 향"
+            },
+            {
+                "id": 1200,
+                "name": "Kephalis",
+                "name_kr": "케팔리스",
+                "description": "우디-앰버리한 면이 있는 합성 노트로, 시더를 연상시키며 플로럴과 타바코와 잘 어울림"
+            },
+            {
+                "id": 1494,
+                "name": "Sclarene",
+                "name_kr": "스클라렌",
+                "description": "캠퍼와 따뜻한 금속성 언더톤이 있는 강한 드라이 우디 노트"
+            },
+            {
+                "id": 1017,
+                "name": "Buddha Wood",
+                "name_kr": "부다 우드",
+                "description": "베티버와 샌달우드 느낌이 있는 우디하고 발삼향이 나며 이끼 향이 나는 깊고 스모키한 향"
+            },
+            {
+                "id": 1106,
+                "name": "Siam",
+                "name_kr": "시암",
+                "description": "작은 노란 꽃이 피는 시암 카시아 나무에서 나는 특별한 허브향, 쓴맛이 나는 향"
+            },
+            {
+                "id": 1132,
+                "name": "Bisabolene",
+                "name_kr": "비사볼렌",
+                "description": "오포파낙스와 오리엔탈 계열의 향수에서 볼 수 있는 따뜻하고 달콤한 스파이시-발삼향"
+            },
+            {
+                "id": 1307,
+                "name": "Pepperwood™",
+                "name_kr": "페퍼우드",
+                "description": "스파이시하고 후추같은, 프리지아, 장미, 발삼향이 나는 향"
+            },
+            {
+                "id": 107,
+                "name": "Cyperus Scariosus",
+                "name_kr": "사이프러스 스카리오서스",
+                "description": "베티버, 시더, 파출리의 면모가 있는 인도의 우디향"
+            },
+            {
+                "id": 676,
+                "name": "Jatamansi or Spikenard",
+                "name_kr": "자타만시 또는 스파이크나드",
+                "description": "흙냄새가 나는 아로마틱한 허브 향"
+            },
+            {
+                "id": 117,
+                "name": "Fig",
+                "name_kr": "무화과",
+                "description": "과일은 매우 달콤하고 허니드, 플로럴, 구르망"
+            },
+            {
+                "id": 1537,
+                "name": "Verdox",
+                "name_kr": "베르독스",
+                "description": "사과 노트를 전달하기 위해 자주 사용되는 합성 원료. 강렬한 우디 면도 있음"
+            },
+            {
+                "id": 691,
+                "name": "Linaloe Berry",
+                "name_kr": "리날로에 베리",
+                "description": "가벼운 아로마틱 시트러스 향"
+            },
+            {
+                "id": 1047,
+                "name": "Fig tree",
+                "name_kr": "무화과나무",
+                "description": "복잡한 그린 파우더리하고 실키한 노트로 과일의 우유같고 코코넛 향이 나는 수액, 잎의 어둡고 쓴 더스티한 그린, 나무 껍질과 그 아래 흙의 향을 연상시킴"
+            },
+            {
+                "id": 1048,
+                "name": "Fir",
+                "name_kr": "전나무",
+                "description": "달콤한 발삼향, 아로마틱한 그린 스파이시 향"
+            },
+            {
+                "id": 1079,
+                "name": "Olive Tree",
+                "name_kr": "올리브 나무",
+                "description": "짭짤한 우디 그린 향의 환상 노트"
+            },
+            {
+                "id": 1503,
+                "name": "Slate",
+                "name_kr": "점판암",
+                "description": "드라이하고 모던한 환상 노트"
+            },
+            {
+                "id": 751,
+                "name": "Siriuba Tree",
+                "name_kr": "시리우바 트리",
+                "description": "소금샘이라 불리는 특별한 구조를 가진 나무로, 우디하고 소금기 있는 향"
+            },
+            {
+                "id": 678,
+                "name": "Juniper",
+                "name_kr": "주니퍼",
+                "description": "파인 뉘앙스가 있는 신선한 발삼향, 아로마틱한 향"
+            },
+            {
+                "id": 1396,
+                "name": "Healingwood",
+                "name_kr": "힐링우드",
+                "description": "패출리의 깊은 우디한 면을 가지고 있지만, 더 밝고 활기찬 면이 있음"
             }
         ]
     },
@@ -2186,22 +1670,10 @@
                 "description": "땀 냄새와 비슷한 특히 자극적인 쓴맛-신맛의 향"
             },
             {
-                "id": 838,
-                "name": "Saffron",
-                "name_kr": "사프란",
-                "description": "쓴달콤하고 가죽 향이 나는 부드럽고 은은한 향"
-            },
-            {
                 "id": 852,
                 "name": "Vanilla",
                 "name_kr": "바닐라",
                 "description": "달콤하고, 포근하며, 위안이 되는 쿠키 굽는 듯한 향"
-            },
-            {
-                "id": 991,
-                "name": "Agarwood (Oud)",
-                "name_kr": "참향나무 (우드)",
-                "description": "아퀼라리아 나무의 병리학적 분비물로, 풍부하고 머스키한 우디-너티한 향"
             },
             {
                 "id": 1130,
@@ -2264,16 +1736,40 @@
                 "description": "달콤한 앰버 발삼향"
             },
             {
+                "id": 1504,
+                "name": "Smoke",
+                "name_kr": "스모크",
+                "description": "다양한 원료들이 스모키한 효과를 낼 수 있음"
+            },
+            {
+                "id": 1150,
+                "name": "Mastic or Lentisque",
+                "name_kr": "마스틱/렌티스크",
+                "description": "신선한 발삼향, 테레핀 같은 향"
+            },
+            {
+                "id": 1160,
+                "name": "Poplar (Populus) Buds",
+                "name_kr": "포플러 버드",
+                "description": "특이한 발삼향의 그린하고 쌉싸름한 달콤함이 있는 향"
+            },
+            {
                 "id": 1422,
                 "name": "Lava",
                 "name_kr": "라바",
                 "description": "뜨겁고 불타는 용암의 환상 노트"
             },
             {
-                "id": 1504,
-                "name": "Smoke",
-                "name_kr": "스모크",
-                "description": "다양한 원료들이 스모키한 효과를 낼 수 있음"
+                "id": 641,
+                "name": "Davana",
+                "name_kr": "다바나",
+                "description": "발삼 언더톤이 있는 날카로운 허브의 쓴 그린 노트"
+            },
+            {
+                "id": 113,
+                "name": "Dried Fruits",
+                "name_kr": "건조 과일",
+                "description": "대추, 무화과, 말린 살구 껍질과 감초 같은 달콤하고 끈적한 과일을 연상시키는 노트"
             }
         ]
     },
@@ -2426,6 +1922,48 @@
                 "name": "Narcissus",
                 "name_kr": "수선화",
                 "description": "강렬하고 풍부한 플로럴 아니말릭 향에 그린 뉘앙스와 건초, 담배의 힌트"
+            },
+            {
+                "id": 439,
+                "name": "Nerium Oleander",
+                "name_kr": "네리움 올리앤더",
+                "description": "탈크 같은 플로럴 노트에 폴렌의 달콤함이 있음"
+            },
+            {
+                "id": 466,
+                "name": "Petalia",
+                "name_kr": "페탈리아",
+                "description": "피오니, 은방울꽃, 장미의 신선한 플로럴 향에 과일 언더톤. 매우 신선하고 가볍고 확산성이 좋음"
+            },
+            {
+                "id": 362,
+                "name": "Heliotrope",
+                "name_kr": "헬리오트로프",
+                "description": "아몬드 향이 나는, 바닐라 같은 노트로 매우 흐릿하고 부드러운 윤곽, 헬리오트로핀으로 재현됨"
+            },
+            {
+                "id": 439,
+                "name": "Nerium Oleander",
+                "name_kr": "네리움 올리앤더",
+                "description": "탈크 같은 플로럴 노트에 폴렌의 달콤함이 있음"
+            },
+            {
+                "id": 391,
+                "name": "Laburnum",
+                "name_kr": "라버넘",
+                "description": "'골든 체인 트리'라고도 불리며, 악기용 목재로 쓰이는 수지성 특성이 있는 가볍게 향기로운 나무"
+            },
+            {
+                "id": 330,
+                "name": "English Marigold",
+                "name_kr": "잉글리시 매리골드",
+                "description": "허브의, 아로마틱한 향"
+            },
+            {
+                "id": 502,
+                "name": "Safflower",
+                "name_kr": "잇꽃",
+                "description": "섬세한 플로럴 향"
             },
             {
                 "id": 441,
@@ -2672,6 +2210,60 @@
                 "name": "Coranol",
                 "name_kr": "코라놀",
                 "description": "약간의 금속성 뉘앑스가 있는 신선한 플로럴 로즈 향의 피르메니히 분자"
+            },
+            {
+                "id": 36,
+                "name": "Neroli",
+                "name_kr": "네롤리",
+                "description": "시트러스향, 가볍고 약간 쓴 노트, 오렌지와 허니 블라섬 플로럴"
+            },
+            {
+                "id": 668,
+                "name": "Hat Straw",
+                "name_kr": "밀짚모자",
+                "description": "밀짚모자의 판타지 향"
+            },
+            {
+                "id": 714,
+                "name": "Palmarosa",
+                "name_kr": "팔마로사",
+                "description": "식물성 뉘앙스가 있는 특이한 장미향의 부드러운 노트"
+            },
+            {
+                "id": 1068,
+                "name": "Manuka",
+                "name_kr": "마누카",
+                "description": "차나무와 관련있는 렙토스페르뭄 스코파리움 종"
+            },
+            {
+                "id": 482,
+                "name": "Privet",
+                "name_kr": "프리벳",
+                "description": "봄 향의 신선한 노트, 때로는 고양이 오줌 뉘앙스가 있음"
+            },
+            {
+                "id": 1377,
+                "name": "Fabric",
+                "name_kr": "섬유",
+                "description": "깨끗한 환상 노트"
+            },
+            {
+                "id": 541,
+                "name": "Water Hyacinth",
+                "name_kr": "부레옥잠",
+                "description": "그린 플로럴에 아쿠아틱한 뉘앙스"
+            },
+            {
+                "id": 542,
+                "name": "Water Lily",
+                "name_kr": "워터 릴리",
+                "description": "신선하고 섬세한 부드러운 아쿠아틱 플로럴 향"
+            },
+            {
+                "id": 437,
+                "name": "Nasturtium",
+                "name_kr": "나스터튬",
+                "description": "달콤한 그린과 스파이시한 플로럴 노트"
             }
         ]
     },
@@ -2710,12 +2302,6 @@
                 "name": "Skunk Cabbage",
                 "name_kr": "스컹크배추",
                 "description": "식물성 기원의 머스키한 노트"
-            },
-            {
-                "id": 991,
-                "name": "Agarwood (Oud)",
-                "name_kr": "참향나무 (우드)",
-                "description": "아퀼라리아 나무의 병리학적 분비물로, 풍부하고 머스키한 우디-너티한 향"
             },
             {
                 "id": 1174,
@@ -2788,6 +2374,12 @@
                 "name": "Tonalide®",
                 "name_kr": "토날라이드",
                 "description": "머스키함. 베리. 흙냄새. 가장 비싼 머스크 중 하나"
+            },
+            {
+                "id": 1388,
+                "name": "Geosmin",
+                "name_kr": "지오스민",
+                "description": "비온 뒤의 땅 냄새를 나타내는 합성 노트로, 인간이 쉽게 감지하고 좋아하는 향"
             }
         ]
     },
@@ -2798,28 +2390,10 @@
         "description": "포근한 향",
         "notes": [
             {
-                "id": 362,
-                "name": "Heliotrope",
-                "name_kr": "헬리오트로프",
-                "description": "아몬드 향이 나는, 바닐라 같은 노트로 매우 흐릿하고 부드러운 윤곽, 헬리오트로핀으로 재현됨"
-            },
-            {
-                "id": 363,
-                "name": "Hellabore Flower",
-                "name_kr": "헬레보어",
-                "description": "프림로즈를 연상시키는 파우더리한 향"
-            },
-            {
                 "id": 377,
                 "name": "Iris",
                 "name_kr": "아이리스",
                 "description": "천연 아이리스(아이리스 뿌리)는 얼씨하고 우디하며 파우더리하고 삶은 당근을 연상시킴"
-            },
-            {
-                "id": 439,
-                "name": "Nerium Oleander",
-                "name_kr": "네리움 올리앤더",
-                "description": "탈크 같은 플로럴 노트에 폴렌의 달콤함이 있음"
             },
             {
                 "id": 454,
@@ -2828,64 +2402,10 @@
                 "description": "파우더리한 얼씨 루티 향에 우디, 제비꽃 플로럴의 뉘앙스"
             },
             {
-                "id": 466,
-                "name": "Petalia",
-                "name_kr": "페탈리아",
-                "description": "피오니, 은방울꽃, 장미의 신선한 플로럴 향에 과일 언더톤. 매우 신선하고 가볍고 확산성이 좋음"
-            },
-            {
-                "id": 730,
-                "name": "Rice",
-                "name_kr": "쌀",
-                "description": "풀같고 견과류 향과 흙냄새가 나는 판타지 노트, 따뜻하고 포근한 향"
-            },
-            {
-                "id": 781,
-                "name": "Wheat",
-                "name_kr": "밀",
-                "description": "견과류 느낌이 있는 시리얼같은 노트, 부드럽고 따뜻한 매력적인 향"
-            },
-            {
-                "id": 845,
-                "name": "Star Anise",
-                "name_kr": "팔각",
-                "description": "감초 뉘앙스가 있는 부드러운 파우더리 플로랄 스파이시 향"
-            },
-            {
-                "id": 1047,
-                "name": "Fig tree",
-                "name_kr": "무화과나무",
-                "description": "복잡한 그린 파우더리하고 실키한 노트"
-            },
-            {
-                "id": 1184,
-                "name": "Carrot Seeds",
-                "name_kr": "당근씨",
-                "description": "머스키하고, 푹신하며, 화장품 같은 노트"
-            },
-            {
-                "id": 1308,
-                "name": "Accord Eudora®",
-                "name_kr": "아코드 유도라",
-                "description": "조향사 요아힘 코렐이 만든 것으로, 깨끗하고 매우 수분이 있는 피부 같은 향"
-            },
-            {
                 "id": 1328,
                 "name": "Boisiris",
                 "name_kr": "보이시리스",
                 "description": "아이리스와 따뜻한 타바코/앰버 언더톤이 있는 우아한 파우더리 우디 향"
-            },
-            {
-                "id": 1454,
-                "name": "Osmasylk Natsublim™",
-                "name_kr": "오스마실크 나츠블림",
-                "description": "AVON이 독점적으로 개발한 깨끗한 피부향이 있는 스파이시한 아로마"
-            },
-            {
-                "id": 1477,
-                "name": "Porcelain",
-                "name_kr": "도자기",
-                "description": "축축한 석고를 약간 연상시키는 차가운 향"
             },
             {
                 "id": 1478,
@@ -2894,10 +2414,16 @@
                 "description": "다양한 자연과 합성 노트들이 향수 구성에 파우더리한 효과를 줌"
             },
             {
-                "id": 1369,
-                "name": "Dust",
-                "name_kr": "더스트",
-                "description": "건조하고 먼지나는, 밀집되고 닫힌듯한 자극적인 향"
+                "id": 1347,
+                "name": "Clay",
+                "name_kr": "점토",
+                "description": "테라코타 타일과 진흙 같은 흙냄새를 연상시키는 노트"
+            },
+            {
+                "id": 1370,
+                "name": "Earth Tincture",
+                "name_kr": "어스 팅크처",
+                "description": "정원이나 흙먼지 같은 흙냄새를 표현하기 위해 조향사들이 사용하는 에센스"
             }
         ]
     },
@@ -2914,34 +2440,16 @@
                 "description": "여름의 건초와 가죽 향에 드라이 플로럴 톤, 매우 매력적이며 파이프 담배나 담배재 같은 향은 전혀 없음"
             },
             {
-                "id": 391,
-                "name": "Laburnum",
-                "name_kr": "라버넘",
-                "description": "'골든 체인 트리'라고도 불리며, 악기용 목재로 쓰이는 수지성 특성이 있는 가볍게 향기로운 나무"
-            },
-            {
                 "id": 673,
                 "name": "Immortelle",
                 "name_kr": "이모르뗄",
                 "description": "건초, 담배, 꿀을 연상시키는 달콤하고 건조한 허브 향"
             },
             {
-                "id": 838,
-                "name": "Saffron",
-                "name_kr": "사프란",
-                "description": "쓴달콤하고 가죽 향이 나는 부드럽고 은은한 향"
-            },
-            {
                 "id": 839,
                 "name": "Safraleine",
                 "name_kr": "사프랄레인",
                 "description": "사프란의 에센스, 쓴달콤한 톤이 있는 가죽-스웨이드 부드러운 향"
-            },
-            {
-                "id": 1131,
-                "name": "Birch Tar",
-                "name_kr": "자작나무 타르",
-                "description": "가죽 향을 재현하는데 사용되는 자연 원료 중 하나"
             },
             {
                 "id": 1202,
@@ -2956,34 +2464,10 @@
                 "description": "피부에서 부드럽고 유연하며 관능적인 스웨이드 느낌을 재현하는 합성 노트. 부드럽고, 파우더리하며, 머스키함"
             },
             {
-                "id": 1331,
-                "name": "Brown Scotch Tape",
-                "name_kr": "브라운 스카치 테이프",
-                "description": "꼼 데 가르송과 같은 아방가르드 출시작에서 사용되는 접착제와 플라스틱 향이 나는 환상 노트"
-            },
-            {
-                "id": 1337,
-                "name": "Canvas",
-                "name_kr": "캔버스",
-                "description": "흙냄새, 축축하고, 젖은, 약간 쓴 향"
-            },
-            {
-                "id": 1338,
-                "name": "Caoutchouc",
-                "name_kr": "고무",
-                "description": "천연 고무 소재"
-            },
-            {
                 "id": 1361,
                 "name": "Cuban Cigar",
                 "name_kr": "쿠바 시가",
                 "description": "그린한 터치와 지속성이 있는 타바코 연기 향"
-            },
-            {
-                "id": 1428,
-                "name": "Lorenox",
-                "name_kr": "로레녹스",
-                "description": "우디하고 앰버리하며 레더리하고 아로마틱한 복합적인 향으로 Mane이 개발"
             },
             {
                 "id": 1515,
@@ -3000,40 +2484,10 @@
         "description": "달콤하고 부드러운 향",
         "notes": [
             {
-                "id": 330,
-                "name": "English Marigold",
-                "name_kr": "잉글리시 매리골드",
-                "description": "허브의, 아로마틱한 향"
-            },
-            {
                 "id": 509,
                 "name": "Siberian Rhododendron",
                 "name_kr": "시베리안 로도덴드론",
                 "description": "앰버 언더톤이 있는 헤스페리딕 플로럴과 아로마틱 스파이시"
-            },
-            {
-                "id": 502,
-                "name": "Safflower",
-                "name_kr": "잇꽃",
-                "description": "섬세한 플로럴 향"
-            },
-            {
-                "id": 795,
-                "name": "Cacao Pod",
-                "name_kr": "카카오 꼬투리",
-                "description": "따뜻한 스파이시 구르망 향과 앰버, 발삼의 뉘앙스"
-            },
-            {
-                "id": 998,
-                "name": "Amyris",
-                "name_kr": "아미리스",
-                "description": "신선한 파인향의 발삼과 시트러스 뉘앙스가 있는 향"
-            },
-            {
-                "id": 1017,
-                "name": "Buddha Wood",
-                "name_kr": "부다 우드",
-                "description": "베티버와 샌달우드 느낌이 있는 우디하고 발삼향이 나며 이끼 향이 나는 깊고 스모키한 향"
             },
             {
                 "id": 1168,
@@ -3078,16 +2532,10 @@
                 "description": "드라이한 앰버 머스키 향이 나는 현대적 합성 화합물"
             },
             {
-                "id": 1200,
-                "name": "Kephalis",
-                "name_kr": "케팔리스",
-                "description": "우디-앰버리한 면이 있는 합성 노트로, 시더를 연상시키며 플로럴과 타바코와 잘 어울림"
-            },
-            {
-                "id": 1494,
-                "name": "Sclarene",
-                "name_kr": "스클라렌",
-                "description": "캠퍼와 따뜻한 금속성 언더톤이 있는 강한 드라이 우디 노트"
+                "id": 1149,
+                "name": "Labdanum",
+                "name_kr": "라브다눔",
+                "description": "깊고 강렬한, 가죽과 앰버 느낌의 향"
             }
         ]
     }
