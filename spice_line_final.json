@@ -39,13 +39,13 @@
                 "id": 797,
                 "name": "Cardamom",
                 "name_kr": "카다멈",
-                "description": "달콤하고 레진향이 나는 아로마틱하고 스파이시한 향과 쌉싸름한 뒷맛"
+                "description": "달콤한 수지 향과 매콤한 향, 씁쓸한 뒷맛이 어우러진 향"
             },
             {
                 "id": 799,
                 "name": "Cassia",
                 "name_kr": "육계나무",
-                "description": "계피같은, 스파이시하고 흙냄새가 나는 아로마틱한 향"
+                "description": "계피와 유사하고, 스파이시하며 흙냄새가 나는 아로마틱한 향"
             },
             {
                 "id": 800,
@@ -57,7 +57,7 @@
                 "id": 801,
                 "name": "Cinnamon",
                 "name_kr": "시나몬",
-                "description": "달콤하고 따뜻한, 파우더리한 지속성 있는 스파이시 향"
+                "description": "달콤하고 따뜻하며 파우더리한 지속성이 있는 스파이시한 향"
             },
             {
                 "id": 803,
@@ -69,7 +69,7 @@
                 "id": 810,
                 "name": "Cumin",
                 "name_kr": "쿠민",
-                "description": "땀 냄새와 비슷한 특히 자극적인 쓴맛-신맛의 향"
+                "description": "땀과 비슷할 수 있는 톡 쏘는 듯하고 씁쓸하며 신맛이 나는 향"
             },
             {
                 "id": 813,
@@ -87,31 +87,31 @@
                 "id": 817,
                 "name": "Galanga",
                 "name_kr": "가랑갈",
-                "description": "스파이시하고 발삼향이 나는 기분 좋은 향"
+                "description": "스파이시하고 발사믹향이 나는 기분 좋은 향"
             },
             {
                 "id": 818,
                 "name": "Ginger",
                 "name_kr": "생강",
-                "description": "시트러스와 파인 뉘앙스가 있는 스파이시한 톡쏘는 탑노트"
+                "description": "상큼한 시트러스 향과 소나무 같은 뉘앙스가 돋보이는 매콤하고 톡쏘는향"
             },
             {
                 "id": 821,
                 "name": "Indian Spices",
                 "name_kr": "인도 향신료",
-                "description": "인도 향신료를 통칭하는 용어, 주로 커리를 중심으로 시나몬, 클로브, 큐민의 악센트"
+                "description": "인도 향신료를 통칭하는 용어, 카레를 중심으로 계피, 정향, 쿠민 등의 향이 특징"
             },
             {
                 "id": 828,
                 "name": "Nutmeg",
                 "name_kr": "육두구",
-                "description": "흙냄새와 자극적인 베이스노트가 있는 스파이시 스위트한 향"
+                "description": "달콤하면서도 스파이시한 흙냄새가 나는 독특한 향"
             },
             {
                 "id": 831,
                 "name": "Pepper",
                 "name_kr": "후추",
-                "description": "뜨겁고 상쾌한 노트, 짧은 지속성의 흙냄새나는 스파이스"
+                "description": "뜨겁고 상쾌하고, 짧은 지속성의 흙냄새나는 스파이스"
             },
             {
                 "id": 836,
@@ -123,25 +123,25 @@
                 "id": 838,
                 "name": "Saffron",
                 "name_kr": "사프란",
-                "description": "쓴달콤하고 가죽 향이 나는 부드럽고 은은한 향"
+                "description": "씁쓸하고 가죽 같으며 부드럽고 친근하며 흙향"
             },
             {
                 "id": 839,
                 "name": "Safraleine",
                 "name_kr": "사프랄레인",
-                "description": "사프란의 에센스, 쓴달콤한 톤이 있는 가죽-스웨이드 부드러운 향"
+                "description": "사프란의 에센스, 가죽 같은 스웨이드와 씁쓸한 톤의 부드러운 향"
             },
             {
                 "id": 842,
                 "name": "Sichuan Pepper",
                 "name_kr": "초피나무",
-                "description": "시트러스 터치가 있는 아로마틱하고 허브하며 스파이시한 향"
+                "description": "후추 향과 향기롭고 허브 향이 나며 맵고 시트러스 향이 나는 향"
             },
             {
                 "id": 844,
                 "name": "Spiked Pepper",
                 "name_kr": "스파이크드 페퍼",
-                "description": "푸제르 그린 아로마가 있으며, 으깨면 스파이시하고 기름진 뉘앙스가 남"
+                "description": "푸제르 그린 아로마로, 부서졌을 때 매콤함과 기름진 뉘앙스"
             },
             {
                 "id": 845,
@@ -166,12 +166,6 @@
                 "name": "Gunpowder",
                 "name_kr": "흑색화약",
                 "description": "후추, 유황, 화약/폭죽 면이 있는 환상 노트"
-            },
-            {
-                "id": 838,
-                "name": "Saffron",
-                "name_kr": "사프란",
-                "description": "쓴 달콤하고 가죽 향이 나는 부드럽고 은은한 향"
             },
             {
                 "id": 795,
@@ -2444,12 +2438,6 @@
                 "name": "Immortelle",
                 "name_kr": "이모르뗄",
                 "description": "건초, 담배, 꿀을 연상시키는 달콤하고 건조한 허브 향"
-            },
-            {
-                "id": 839,
-                "name": "Safraleine",
-                "name_kr": "사프랄레인",
-                "description": "사프란의 에센스, 쓴달콤한 톤이 있는 가죽-스웨이드 부드러운 향"
             },
             {
                 "id": 1202,
