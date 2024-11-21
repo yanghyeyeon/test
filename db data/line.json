@@ -7,7 +7,7 @@
 	},
 	{
 		"id" : 2,
-		"name" : "Chypre",
+		"name" : "Cypre",
 		"content" : "격조있고 성숙한 느낌의 개성있는 향",
 		"color" : "FF7F43"
 	},
@@ -44,8 +44,8 @@
 	{
 		"id" : 8,
 		"name" : "Fougere",
-		"content" : "부드럽고 싱그러운 남성의 향",
-		"color" : "7ED3BB"
+		"content" : "부드럽고 감미로우며 편안한 향",
+		"color" : "FFD9A6"
 	},
 	{
 		"id" : 9,
@@ -85,20 +85,14 @@
 	},
 	{
 		"id" : 15,
-		"name" : "Tobacco Leather",
-		"content" : "마초적인 남성의 개성이 강한 매력적인 향",
-		"color" : "000000"
+		"name" : "Amber",
+		"content" : "달콤하고 부드러운 향",
+		"color" : "FFA75A"
 	},
 	{
 		"id" : 16,
-		"name" : "Amber",
-		"content" : "달콤하고 부드러운 향",
-		"color" : "FFE8D3"
-	},
-	{
-		"id" : 17,
-		"name" : "notname",
-		"content" : "notcontent",
-		"color" : "notcolor"
+		"name" : "Tobacco Leather",
+		"content" : "마초적인 남성의 개성이 강한 매력적인 향",
+		"color" : "000000"
 	}
 ]
