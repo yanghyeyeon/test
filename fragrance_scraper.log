@@ -1,0 +1,6 @@
+2024-11-25 09:31:54,848 - INFO - Database connection successful
+2024-11-25 09:31:54,917 - INFO - Tables created successfully
+2024-11-25 09:31:54,918 - INFO - Line data inserted successfully
+2024-11-25 09:31:55,013 - ERROR - Error fetching URL https://www.fragrantica.com/notes/: 403 Client Error: Forbidden for url: https://www.fragrantica.com/notes/
+2024-11-25 09:31:55,014 - ERROR - Failed to retrieve page content
+2024-11-25 09:31:55,017 - INFO - MySQL connection closed

@@ -1652,22 +1652,10 @@
                 "description": "달콤하고 따뜻한, 파우더리한 지속성 있는 스파이시 향"
             },
             {
-                "id": 805,
-                "name": "Coffee",
-                "name_kr": "커피",
-                "description": "진한 로스팅된 커피 향으로 패출리의 코코아 느낌과 연결됨"
-            },
-            {
                 "id": 810,
                 "name": "Cumin",
                 "name_kr": "쿠민",
                 "description": "땀 냄새와 비슷한 특히 자극적인 쓴맛-신맛의 향"
-            },
-            {
-                "id": 852,
-                "name": "Vanilla",
-                "name_kr": "바닐라",
-                "description": "달콤하고, 포근하며, 위안이 되는 쿠키 굽는 듯한 향"
             },
             {
                 "id": 1130,
@@ -2192,12 +2180,6 @@
                 "name": "Amyl Salicylate",
                 "name_kr": "아밀 살리실레이트",
                 "description": "덜 익은 바나나를 연상시키는 신선한 프루티 플로럴 그린 향"
-            },
-            {
-                "id": 1355,
-                "name": "Coranol",
-                "name_kr": "코라놀",
-                "description": "약간의 금속성 뉘앑스가 있는 신선한 플로럴 로즈 향의 피르메니히 분자"
             },
             {
                 "id": 36,
